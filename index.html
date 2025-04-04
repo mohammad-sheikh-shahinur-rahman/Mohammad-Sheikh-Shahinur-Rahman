@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>মোহাম্মদ শেখ শাহিনুর রহমান - প্রোফাইল</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+            --gradient: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
+            --text-light: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Poppins', 'Hind Siliguri', sans-serif;
+            background: #f4f7fc;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .watermark {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            opacity: 0.1;
+            font-size: 120px;
+            color: var(--secondary-color);
+            pointer-events: none;
+            z-index: 0;
+            font-family: 'Kalpurush', cursive;
+            transform: rotate(-15deg);
+        }
+
+        .author-header {
+            background: var(--gradient);
+            color: white;
+            padding: 6rem 0 4rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .author-header::after {
+            content: '';
+            position: absolute;
+            bottom: -50px;
+            left: -10%;
+            width: 120%;
+            height: 100px;
+            background: white;
+            transform: rotate(-3deg);
+            z-index: 1;
+        }
+
+        .author-photo {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            border: 5px solid rgba(255,255,255,0.2);
+            margin-bottom: 1.5rem;
+            object-fit: cover;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+            z-index: 2;
+            position: relative;
+        }
+
+        .author-photo:hover {
+            transform: scale(1.05) rotate(5deg);
+        }
+
+        .bio-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+            position: relative;
+            z-index: 2;
+        }
+
+        .bio-section {
+            background: white;
+            border-radius: 20px;
+            padding: 2.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .bio-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+        }
+
+        .bio-section h2 {
+            color: var(--primary-color);
+            border-left: 5px solid var(--secondary-color);
+            padding-left: 1rem;
+            margin: -0.5rem 0 2rem -2.5rem;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+            background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.06);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            min-height: 100%;
+        }
+
+        .card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+        }
+
+        .btn-social {
+            margin: 0 5px;
+            transition: transform 0.3s ease;
+            background: var(--gradient);
+            color: white !important;
+            border: none;
+            padding: 0.8rem 1.5rem;
+            border-radius: 50px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-social:hover {
+            transform: scale(1.05);
+        }
+
+        .btn-social::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, 
+                transparent 0%, 
+                rgba(255,255,255,0.2) 50%, 
+                transparent 100%);
+            transition: 0.5s;
+        }
+
+        .btn-social:hover::before {
+            left: 100%;
+        }
+
+        @media (max-width: 768px) {
+            .author-header {
+                padding: 4rem 0 3rem;
+            }
+            
+            .author-photo {
+                width: 180px;
+                height: 180px;
+            }
+            
+            .bio-section h2 {
+                margin-left: -1.5rem;
+            }
+
+            .badge.fs-5 {
+                font-size: 0.9rem !important;
+            }
+        }
+
+        .info-box {
+            background: rgba(52, 152, 219, 0.1);
+            border-radius: 10px;
+            padding: 1.5rem;
+            height: 100%;
+            transition: transform 0.3s ease;
+        }
+
+        .info-box:hover {
+            transform: translateY(-5px);
+        }
+
+        .edu-box {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            background: linear-gradient(145deg, #f8f9fa 0%, #ffffff 100%);
+            padding: 1.5rem;
+            border-radius: 15px;
+            border-left: 4px solid #3498db;
+        }
+
+        .career-item {
+            display: grid;
+            grid-template-columns: 60px 1fr;
+            gap: 1.5rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            background: rgba(52, 152, 219, 0.05);
+            border-radius: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .career-item:hover {
+            background: rgba(52, 152, 219, 0.1);
+        }
+
+        .career-icon {
+            width: 60px;
+            height: 60px;
+            background: #3498db;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.5rem;
+        }
+
+        .responsibilities li {
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        .responsibilities li::before {
+            content: "▹";
+            position: absolute;
+            left: 0;
+            color: #3498db;
+        }
+        /* টাইমলাইন স্টাইলিং */
+        .achievements-timeline {
+            position: relative;
+            padding: 50px 0;
+        }
+
+        .achievements-timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            width: 2px;
+            height: 100%;
+            background: #3498db;
+            transform: translateX(-50%);
+        }
+
+        .timeline-card {
+            position: relative;
+            width: 46%;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+            margin: 20px 0;
+            transition: all 0.3s ease;
+        }
+
+        .timeline-card:nth-child(even) {
+            margin-left: auto;
+        }
+
+        .timeline-card::before {
+            content: '';
+            position: absolute;
+            top: 24px;
+            width: 20px;
+            height: 20px;
+            background: #3498db;
+            border-radius: 50%;
+        }
+
+        .timeline-card:nth-child(odd)::before {
+            right: -35px;
+        }
+
+        .timeline-card:nth-child(even)::before {
+            left: -35px;
+        }
+
+        .timeline-icon {
+            position: absolute;
+            top: 15px;
+            font-size: 24px;
+        }
+
+        .timeline-card:nth-child(odd) .timeline-icon {
+            right: -60px;
+        }
+
+        .timeline-card:nth-child(even) .timeline-icon {
+            left: -60px;
+        }
+
+        @media (max-width: 768px) {
+            .achievements-timeline::before {
+                left: 20px;
+            }
+
+            .timeline-card {
+                width: 100%;
+                margin-left: 40px !important;
+            }
+
+            .timeline-card::before,
+            .timeline-icon {
+                left: -35px !important;
+                right: auto !important;
+            }
+        }
+        .literary-style {
+            background: rgba(255,255,255,0.9);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+            padding: 20px;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+ <!-- Header Section -->
+<header class="author-header py-5" style="background: linear-gradient(135deg, #1e3c72, #2a5298); color: #fff;">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- Author Photo -->
+      <div class="col-md-4 text-center">
+        <img src="shahinur.jpg" alt="মোহাম্মদ শেখ শাহিনুর রহমান" class="author-photo rounded-circle mb-3" style="max-width: 200px; border: 5px solid #fff;">
+      </div>
+      <!-- Author Details -->
+      <div class="col-md-8 text-center">
+        <h1 class="display-4 fw-bold mb-3">মোহাম্মদ শেখ শাহিনুর রহমান</h1>
+        <div class="d-flex justify-content-center gap-3 flex-wrap mb-3">
+          <span class="badge fs-5" style="background: rgba(255,255,255,0.15);">
+            <i class="fas fa-code me-1"></i> সফটওয়্যার ইঞ্জিনিয়ার
+          </span>
+          <span class="badge fs-5" style="background: rgba(255,255,255,0.15);">
+            <i class="fas fa-pen-fancy me-1"></i> কবি
+          </span>
+          <span class="badge fs-5" style="background: rgba(255,255,255,0.15);">
+            <i class="fas fa-shield-alt me-1"></i> সাইবার নিরাপত্তা বিশেষজ্ঞ
+          </span>
+        </div>
+        <div class="d-flex justify-content-center gap-3 flex-wrap">
+          <span class="achievement-badge" style="background: #ff9800; padding: 8px 12px; border-radius: 5px;">
+            <i class="fas fa-globe me-1"></i> ৩০+ আন্তর্জাতিক স্বীকৃতি
+          </span>
+          <span class="achievement-badge" style="background: #4caf50; padding: 8px 12px; border-radius: 5px;">
+            <i class="fas fa-book me-1"></i> ২০+ প্রকাশিত গ্রন্থ
+          </span>
+          <span class="achievement-badge" style="background: #03a9f4; padding: 8px 12px; border-radius: 5px;">
+            <i class="fas fa-award me-1"></i> বিশ্বসেরা ১০০ হ্যাকার
+          </span>
+        </div>
+      </div>
+    </div>
+    <!-- Watermark / Slogan -->
+    <div class="row mt-4">
+      <div class="col text-center">
+        <div class="watermark" style="font-size: 1.2rem; font-style: italic;">
+          মোহাম্মদ শেখ শাহিনুর রহমান - সৃষ্টি ও প্রযুক্তির সমন্বয়
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Main Content -->
+<main class="bio-content my-5">
+  <!-- Personal Info Section -->
+  <section class="bio-section">
+    <h2 class="mb-4">📌 ব্যক্তিগত তথ্য</h2>
+    <div class="row g-4">
+      <!-- Birth Date Card -->
+      <div class="col-md-4">
+        <div class="info-box card p-3 text-center shadow-sm">
+          <i class="fas fa-birthday-cake fa-2x mb-2 text-primary"></i>
+          <h5 class="mb-1">জন্ম তারিখ</h5>
+          <p class="mb-0">১৫ মে</p>
+        </div>
+      </div>
+      <!-- Birthplace Card -->
+      <div class="col-md-4">
+        <div class="info-box card p-3 text-center shadow-sm">
+          <i class="fas fa-map-marker-alt fa-2x mb-2 text-danger"></i>
+          <h5 class="mb-1">জন্মস্থান</h5>
+          <p class="mb-0">কিশোরগঞ্জ, বাংলাদেশ</p>
+        </div>
+      </div>
+      <!-- Current Residence Card -->
+      <div class="col-md-4">
+        <div class="info-box card p-3 text-center shadow-sm">
+          <i class="fas fa-home fa-2x mb-2 text-success"></i>
+          <h5 class="mb-1">বর্তমান নিবাস</h5>
+          <p class="mb-0">৭৭, সোহরাওয়ার্দী এভিনিউ, বারিধারা কূটনৈতিক অঞ্চল, ঢাকা-১২১২</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+    <!-- Education Section -->
+<section class="bio-section">
+  <h2>🎓 শিক্ষাগত যোগ্যতা</h2>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    <!-- National University Card -->
+    <div class="col">
+      <div class="card education-card text-center p-4 shadow-sm">
+        <h4 class="fw-bold">
+          <i class="fas fa-university me-2"></i>ন্যাশনাল ইউনিভার্সিটি
+        </h4>
+        <p><strong>চলমান শিক্ষা</strong></p>
+        <p class="text-muted">
+          <i class="fas fa-calendar-alt"></i> ২০২০-বর্তমান
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-map-marker-alt"></i> ঢাকা, বাংলাদেশ
+        </p>
+        <p class="text-info">
+          <i class="fas fa-book"></i> ব্যাচেলর ডিগ্রী (অন্তর্ভুক্ত)
+        </p>
+      </div>
+    </div>
+
+    <!-- Duke University Card -->
+    <div class="col">
+      <div class="card education-card text-center p-4 shadow-sm">
+        <h4 class="fw-bold">
+          <i class="fas fa-graduation-cap me-2"></i>ডিউক ইউনিভার্সিটি
+        </h4>
+        <p><strong>মেডিকেল নিউরোসায়েন্স</strong></p>
+        <p class="text-success">
+          <i class="fas fa-check-circle"></i> সম্পন্ন
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-calendar-alt"></i> ২০১৬-২০২০
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-map-marker-alt"></i> মার্কিন যুক্তরাষ্ট্র
+        </p>
+      </div>
+    </div>
+
+    <!-- University of Michigan Card -->
+    <div class="col">
+      <div class="card education-card text-center p-4 shadow-sm">
+        <h4 class="fw-bold">
+          <i class="fas fa-book-reader me-2"></i>মিশিগান বিশ্ববিদ্যালয়
+        </h4>
+        <p>
+          <strong>অ্যানাটমি: মস্কুলোস্কেলেটাল এবং ইনটেগুমেন্টারি সিস্টেম</strong>
+        </p>
+        <p class="text-success">
+          <i class="fas fa-check-circle"></i> সম্পন্ন
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-calendar-alt"></i> ২০১৪-২০১৮
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-map-marker-alt"></i> মিশিগান, যুক্তরাষ্ট্র
+        </p>
+      </div>
+    </div>
+
+    <!-- Hong Kong University Card -->
+    <div class="col">
+      <div class="card education-card text-center p-4 shadow-sm">
+        <h4 class="fw-bold">
+          <i class="fas fa-code me-2"></i>হংকং ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি
+        </h4>
+        <p>
+          <strong>সফটওয়্যার ইঞ্জিনিয়ারিং: সফটওয়্যার ডিজাইন ও প্রকল্প ব্যবস্থাপনা</strong>
+        </p>
+        <p class="text-success">
+          <i class="fas fa-check-circle"></i> সম্পন্ন
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-calendar-alt"></i> ২০১০-২০১৪
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-map-marker-alt"></i> হংকং, চীন
+        </p>
+      </div>
+    </div>
+
+    <!-- Meta Card -->
+    <div class="col">
+      <div class="card education-card text-center p-4 shadow-sm">
+        <h4 class="fw-bold">
+          <i class="fas fa-laptop me-2"></i>মেটা
+        </h4>
+        <p><strong>ফুল স্ট্যাক ডেভেলপার প্রোগ্রাম</strong></p>
+        <p class="text-success">
+          <i class="fas fa-check-circle"></i> সম্পন্ন
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-calendar-alt"></i> ২০১৯
+        </p>
+        <p class="text-muted">
+          <i class="fas fa-map-marker-alt"></i> অনলাইন
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+        <!-- Certificates Section -->
+<section class="bio-section">
+  <h2>📜 সার্টিফিকেট সমূহ</h2>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+  
+    <!-- Certificate 1: IoT Security & Penetration Testing -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-lock fa-3x text-primary"></i>
+        <h4 class="fw-bold mt-3">IoT Security & Penetration Testing</h4>
+        <p class="text-muted">IoT ডিভাইসের সুরক্ষা ও পেনিট্রেশন টেস্টিং</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 2: Computer & Digital Forensics Masterclass PRO+ -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-search fa-3x text-info"></i>
+        <h4 class="fw-bold mt-3">Computer & Digital Forensics  PRO+</h4>
+        <p class="text-muted">কম্পিউটার ও ডিজিটাল ফরেনসিক্স </p>
+      </div>
+    </div>
+    
+    <!-- Certificate 3: Digital Forensics Masterclass: DFMC+ DFIR -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-search-plus fa-3x text-warning"></i>
+        <h4 class="fw-bold mt-3">Digital Forensics : DFMC+ DFIR</h4>
+        <p class="text-muted">ডিজিটাল ফরেনসিক্স : DFMC+ DFIR</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 4: AWS Certified DevOps Engineer Professional -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-cloud fa-3x text-secondary"></i>
+        <h4 class="fw-bold mt-3">AWS Certified DevOps Engineer Professional</h4>
+        <p class="text-muted">AWS DevOps Engineer</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 5: CDPSE Course 101 - Certified Data Privacy Solutions Engineer -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-shield-alt fa-3x text-danger"></i>
+        <h4 class="fw-bold mt-3">CDPSE Course 101</h4>
+        <p class="text-muted">Certified Data Privacy Solutions Engineer</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 6: Criminology & Criminal Psychology | Certified CSI+ Course -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-user-secret fa-3x text-dark"></i>
+        <h4 class="fw-bold mt-3">Criminology & Criminal Psychology</h4>
+        <p class="text-muted">Certified CSI+ Course</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 7: Recon For Bug Bounty, Penetration Testers & Ethical Hackers -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-bug fa-3x text-success"></i>
+        <h4 class="fw-bold mt-3">Recon For Bug Bounty</h4>
+        <p class="text-muted">Penetration Testers & Ethical Hackers</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 8: The Complete Computer Forensics Course: CFCT+ PRO CFIR DFIR -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-laptop-code fa-3x text-primary"></i>
+        <h4 class="fw-bold mt-3">The Complete Computer Forensics Course</h4>
+        <p class="text-muted">CFCT+ PRO CFIR DFIR</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 9: Executive Diploma of Chief Digital Officer -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-briefcase fa-3x text-info"></i>
+        <h4 class="fw-bold mt-3">Executive Diploma of Chief Digital Officer</h4>
+        <p class="text-muted">সিইও ও ডিজিটাল কর্মকর্তা প্রশিক্ষণ</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 10: CTO Chief Technology Officer Executive Certification -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-user-tie fa-3x text-warning"></i>
+        <h4 class="fw-bold mt-3">CTO Executive Certification</h4>
+        <p class="text-muted">Chief Technology Officer Certification</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 11: Red Teaming | Exploit Development with Assembly and C | MSAC+ -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-exclamation-triangle fa-3x text-danger"></i>
+        <h4 class="fw-bold mt-3">Red Teaming & Exploit Development</h4>
+        <p class="text-muted">Assembly, C | MSAC+, Reverse Engineering</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 12: CEH v12 - Certified Ethical Hacker -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-user-shield fa-3x text-success"></i>
+        <h4 class="fw-bold mt-3">CEH v12</h4>
+        <p class="text-muted">Certified Ethical Hacker</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 13: OSINT in 90 Minutes: Power of Public Information PROF -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-search-dollar fa-3x text-secondary"></i>
+        <h4 class="fw-bold mt-3">OSINT </h4>
+        <p class="text-muted">Power of Public Information PROF</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 14: Ethical Hacking and Penetration Testing | EHPT+ -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-shield fa-3x text-info"></i>
+        <h4 class="fw-bold mt-3">Ethical Hacking & Penetration Testing</h4>
+        <p class="text-muted">EHPT+ Certification</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 15: Ethical Hacking: Offensive Security -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-bolt fa-3x text-warning"></i>
+        <h4 class="fw-bold mt-3">Ethical Hacking: Offensive Security</h4>
+        <p class="text-muted">Offensive Security Certification</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 16: Malware Analysis -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-virus fa-3x text-danger"></i>
+        <h4 class="fw-bold mt-3">Malware Analysis</h4>
+        <p class="text-muted">In-depth Malware Analysis Training</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 17: Mastering Network Security: Defending Against Cyber Threats -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-network-wired fa-3x text-primary"></i>
+        <h4 class="fw-bold mt-3">Mastering Network Security</h4>
+        <p class="text-muted">Defending Against Cyber Threats</p>
+      </div>
+    </div>
+    
+    <!-- Certificate 18: Reverse Engineering, Malware Analysis, Linux, Cyber Security, Ghidra, Game Hacking, IDA Pro, IDA Free, C++ and C -->
+    <div class="col">
+      <div class="card certificate-card text-center p-4 shadow-sm">
+        <i class="fas fa-tools fa-3x text-secondary"></i>
+        <h4 class="fw-bold mt-3">Reverse Engineering & Malware Analysis</h4>
+        <p class="text-muted">Linux, Cyber Security, Ghidra, IDA Pro, C++ & C</p>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+ 
+    <!-- Achievements Section -->
+<section class="bio-section">
+  <h2>🏆 উল্লেখযোগ্য অর্জন</h2>
+  <div class="achievements-timeline">
+    <!-- Achievement 2024 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-certificate timeline-icon text-warning"></i>
+        <h4>২০২৪ - বিশ্বসেরা ১০০ হ্যাকার</h4>
+      </div>
+      <p class="text-muted">
+        HackerOne প্ল্যাটফর্মে বৈশ্বিক র্যাংকিংয়ে শীর্ষস্থানে স্থান করে। <span class="symbol">🌍</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০২৪</span>
+        <span class="more-info">বিশ্বব্যাপী স্বীকৃতি</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2023 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-trophy timeline-icon text-success"></i>
+        <h4>২০২৩ - সেরা প্রযুক্তি গ্রন্থ</h4>
+      </div>
+      <p class="text-muted">
+        "Flutter Beginner to Master" গ্রন্থের জন্য KPR পুরস্কার লাভ। <span class="symbol">📚</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০২৩</span>
+        <span class="more-info">প্রযুক্তি ও সাহিত্যের মেলবন্ধন</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2022 - তথ্যপ্রযুক্তি রাষ্ট্রীয় পুরস্কার -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-shield-alt timeline-icon text-danger"></i>
+        <h4>২০২২ - তথ্যপ্রযুক্তি রাষ্ট্রীয় পুরস্কার</h4>
+      </div>
+      <p class="text-muted">
+        সাইবার নিরাপত্তায় অসামান্য অবদানের স্বীকৃতি। <span class="symbol">🛡️</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০২২</span>
+        <span class="more-info">রাষ্ট্রীয় স্বীকৃতি</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2022 - KPR শ্রেষ্ঠ লেখক -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-trophy timeline-icon text-success"></i>
+        <h4>২০২২ - KPR শ্রেষ্ঠ লেখক</h4>
+      </div>
+      <p class="text-muted">
+        আধুনিক বাংলা সাহিত্যে সাহিত্যিক প্রতিভা ও আবেগপ্রবণ লেখনীর স্বীকৃতি। <span class="symbol">📝</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০২২</span>
+        <span class="more-info">সাহিত্যিক উদ্ভাবন</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2021 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-shield-alt timeline-icon text-danger"></i>
+        <h4>২০২১ - তথ্য সুরক্ষা নেতৃত্ব পুরস্কার (ISLA)</h4>
+      </div>
+      <p class="text-muted">
+        তথ্য সুরক্ষা ক্ষেত্রে উদ্ভাবনী নেতৃত্ব ও কৌশলগত অবদানের স্বীকৃতি। <span class="symbol">🔐</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০২১</span>
+        <span class="more-info">নেতৃত্বের প্রমাণ</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2020 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-certificate timeline-icon text-warning"></i>
+        <h4>২০২০ - SANS ইনস্টিটিউট সাইবারসিকিউরিটি পুরস্কার</h4>
+      </div>
+      <p class="text-muted">
+        সাইবার নিরাপত্তা উন্নতিতে বিশেষ অবদানের স্বীকৃতি। <span class="symbol">🏅</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০২০</span>
+        <span class="more-info">বিশ্বমানের পুরস্কার</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2019 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-trophy timeline-icon text-success"></i>
+        <h4>২০১৯ - SC পুরস্কার</h4>
+      </div>
+      <p class="text-muted">
+        ডিজিটাল নিরাপত্তা ও উদ্ভাবনী সাইবার সমাধানে সফলতা অর্জন। <span class="symbol">💡</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০১৯</span>
+        <span class="more-info">উদ্ভাবনের স্বীকৃতি</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2018 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-shield-alt timeline-icon text-danger"></i>
+        <h4>২০১৮ - সাইবার ইনোভেটর পুরস্কার</h4>
+      </div>
+      <p class="text-muted">
+        নতুন প্রযুক্তিগত ধারণা ও সাইবার নিরাপত্তা সমাধানে উদ্ভাবনী প্রচেষ্টার স্বীকৃতি। <span class="symbol">🚀</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০১৮</span>
+        <span class="more-info">প্রযুক্তিগত উদ্ভাবন</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2017 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-trophy timeline-icon text-success"></i>
+        <h4>২০১৭ - সাহিত্যে সৃজনশীলতা পুরস্কার</h4>
+      </div>
+      <p class="text-muted">
+        সৃজনশীল লেখনী ও সাহিত্যে নতুন ধারার সূচনা করার জন্য সম্মাননা। <span class="symbol">✒️</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০১৭</span>
+        <span class="more-info">সাহিত্যিক সৃজনশীলতা</span>
+      </div>
+    </div>
+    
+    <!-- Achievement 2016 -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-trophy timeline-icon text-success"></i>
+        <h4>২০১৬ - উদীয়মান প্রযুক্তি নেতা</h4>
+      </div>
+      <p class="text-muted">
+        তথ্যপ্রযুক্তি ও সাইবার নিরাপত্তায় উত্থানশীল প্রতিভাকে স্বীকৃতি প্রদান। <span class="symbol">🌟</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০১৬</span>
+        <span class="more-info">প্রতিভার উত্থান</span>
+      </div>
+    </div>
+    
+    <!-- Additional Achievement Example -->
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <i class="fas fa-medal timeline-icon" style="color:#ff5722;"></i>
+        <h4>২০১৫ - উদ্ভাবনী আইটি উদ্ভাবন</h4>
+      </div>
+      <p class="text-muted">
+        প্রযুক্তিগত সমাধানে নতুন দৃষ্টিভঙ্গি ও উদ্ভাবনী চিন্তাভাবনার স্বীকৃতি। <span class="symbol">💡</span>
+      </p>
+      <div class="timeline-footer">
+        <span class="date">২০১৫</span>
+        <span class="more-info">উদ্ভাবনের উৎস</span>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+            <div class="col-md-6">
+  <section class="bio-section">
+    <h2>💼 পেশাগত অবস্থান</h2>
+    <div class="career-list">
+      <!-- নির্বাহী সম্পাদক -->
+      <article class="career-item">
+        <div class="career-icon">
+          <i class="fas fa-newspaper"></i>
+        </div>
+        <div class="career-details">
+          <h5>নির্বাহী সম্পাদক <span class="badge bg-secondary">প্রধান</span></h5>
+          <p class="company">
+            আমাদের সমাজ পত্রিকা <i class="fas fa-building"></i>
+          </p>
+          <p class="location">
+            <i class="fas fa-map-marker-alt"></i> ঢাকা, বাংলাদেশ
+          </p>
+          <p class="dates">
+            <i class="fas fa-calendar-alt"></i> জানুয়ারি ২০১৮ - বর্তমান
+          </p>
+          <ul class="responsibilities">
+            <li>ডিজিটাল কন্টেন্ট স্ট্রাটেজি <span>✨</span></li>
+            <li>টিম ম্যানেজমেন্ট <span>🤝</span></li>
+            <li>সামাজিক ও ডিজিটাল মিডিয়া পরিকল্পনা <span>📱</span></li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- চিফ টেকনোলজি অফিসার (CTO) -->
+      <article class="career-item">
+        <div class="career-icon">
+          <i class="fas fa-laptop-code"></i>
+        </div>
+        <div class="career-details">
+          <h5>চিফ টেকনোলজি অফিসার (CTO) <span class="badge bg-info">প্রযুক্তি</span></h5>
+          <p class="company">
+            আইটি আমাদের সমাজ ইনক. <i class="fas fa-building"></i>
+          </p>
+          <p class="location">
+            <i class="fas fa-map-marker-alt"></i> ঢাকা, বাংলাদেশ
+          </p>
+          <p class="dates">
+            <i class="fas fa-calendar-alt"></i> মার্চ ২০২০ - বর্তমান
+          </p>
+          <ul class="responsibilities">
+            <li>টেকনিক্যাল আর্কিটেকচার ডিজাইন <span>🛠️</span></li>
+            <li>সফটওয়্যার ডেভেলপমেন্ট তত্ত্বাবধান <span>💻</span></li>
+            <li>স্ট্র্যাটেজিক টিম লিডারশিপ <span>🚀</span></li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- সফটওয়্যার ইঞ্জিনিয়ার -->
+      <article class="career-item">
+        <div class="career-icon">
+          <i class="fas fa-laptop-code"></i>
+        </div>
+        <div class="career-details">
+          <h5>সফটওয়্যার ইঞ্জিনিয়ার <span class="badge bg-warning text-dark">ইঞ্জিনিয়ারিং</span></h5>
+          <p class="company">
+            SoftInc <i class="fas fa-building"></i>
+          </p>
+          <p class="location">
+            <i class="fas fa-map-marker-alt"></i> ঢাকা, বাংলাদেশ
+          </p>
+          <p class="dates">
+            <i class="fas fa-calendar-alt"></i> জানুয়ারি ২০১৬ - ডিসেম্বর ২০১৭
+          </p>
+          <ul class="responsibilities">
+            <li>টেকনিক্যাল আর্কিটেকচার ডিজাইন <span>🔧</span></li>
+            <li>সফটওয়্যার ডেভেলপমেন্ট তত্ত্বাবধান <span>💻</span></li>
+            <li>কোড রিভিউ ও অপ্টিমাইজেশন <span>⚙️</span></li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- ফ্রিল্যান্স সিনিয়র সফটওয়্যার ইঞ্জিনিয়ার -->
+      <article class="career-item">
+        <div class="career-icon">
+          <i class="fas fa-laptop-code"></i>
+        </div>
+        <div class="career-details">
+          <h5>ফ্রিল্যান্স সিনিয়র সফটওয়্যার ইঞ্জিনিয়ার <span class="badge bg-success">ফ্রিল্যান্স</span></h5>
+          <p class="company">
+            Nextwo Co. <i class="fas fa-building"></i>
+          </p>
+          <p class="location">
+            <i class="fas fa-map-marker-alt"></i> অনলাইন, বিশ্বব্যাপী
+          </p>
+          <p class="dates">
+            <i class="fas fa-calendar-alt"></i> জুলাই ২০১৫ - বর্তমান
+          </p>
+          <ul class="responsibilities">
+            <li>প্রজেক্ট ম্যানেজমেন্ট ও ক্লায়েন্ট কমিউনিকেশন <span>📞</span></li>
+            <li>টেকনিক্যাল সমাধান ও ইনোভেশন <span>💡</span></li>
+            <li>সফটওয়্যার ডেভেলপমেন্ট তত্ত্বাবধান <span>💻</span></li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- কো-ফাউন্ডার -->
+      <article class="career-item">
+        <div class="career-icon">
+          <i class="fas fa-users"></i>
+        </div>
+        <div class="career-details">
+          <h5>কো-ফাউন্ডার <span class="badge bg-primary">প্রতিষ্ঠাতা</span></h5>
+          <p class="company">
+            আমাদের সমাজ প্রকাশনী <i class="fas fa-building"></i>
+          </p>
+          <p class="location">
+            <i class="fas fa-map-marker-alt"></i> ঢাকা, বাংলাদেশ
+          </p>
+          <p class="dates">
+            <i class="fas fa-calendar-alt"></i> ১ জানুয়ারি ২০২১ - বর্তমান
+          </p>
+          <ul class="responsibilities">
+            <li>প্রকাশনা ও ক্রিয়েটিভ কনসেপ্ট ডেভেলপমেন্ট <span>🎨</span></li>
+            <li>সম্পাদকীয় নির্দেশনা ও কন্টেন্ট স্ট্র্যাটেজি <span>🖋️</span></li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- Chief Executive (CE) -->
+      <article class="career-item">
+        <div class="career-icon">
+          <i class="fas fa-user-tie"></i>
+        </div>
+        <div class="career-details">
+          <h5>Chief Executive (CE) <span class="badge bg-danger">সিই</span></h5>
+          <p class="company">
+            ব্লাডব্যাংক আমাদের সমাজ <i class="fas fa-building"></i>
+          </p>
+          <p class="location">
+            <i class="fas fa-map-marker-alt"></i> ঢাকা, বাংলাদেশ
+          </p>
+          <p class="dates">
+            <i class="fas fa-calendar-alt"></i> ১ জানুয়ারি ২০২৩ - বর্তমান
+          </p>
+          <ul class="responsibilities">
+            <li>স্ট্র্যাটেজিক লিডারশিপ ও ব্যবস্থাপনা <span>📊</span></li>
+            <li>অপারেশনাল এক্সেলেন্স ও উন্নয়ন পরিকল্পনা <span>📈</span></li>
+          </ul>
+        </div>
+      </article>
+    </div>
+  </section>
+</div>
+</div>
+
+        <!-- Literary Works Section -->
+<section class="bio-section">
+    <h2>📚 সাহিত্যকর্ম ও প্রকাশনা</h2>
+    <div class="row g-4">
+        <!-- কবিতা -->
+        <div class="col-md-6 col-lg-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-primary"><i class="fas fa-pen-nib me-2"></i>কবিতা</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">আমি কবি</li>
+                        <li class="mb-2">আমার ধুঁসর স্মৃতিপটে তুমি'ই কবিতা</li>
+                        <li class="mb-2">প্রকৃতি</li>
+                        <li class="mb-2">অনুভূতির অনুরণন</li>
+                        <li class="mb-2">আবারও দেখা</li>
+                        <li class="mb-2">এখানে অনেক আলো</li>
+                        <li class="mb-2">আত্মা</li>
+                        <li class="mb-2">The Spirit</li>
+                        <li class="mb-2">Death or You</li>
+                        <li class="mb-2">আগ্নিপত্র</li>
+                        <li class="mb-2">Where Truth Hides</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- প্রযুক্তি -->
+        <div class="col-md-6 col-lg-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-primary"><i class="fas fa-laptop-code me-2"></i>প্রযুক্তি</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">Flutter Beginner to Master</li>
+                        <li class="mb-2">Master Java: Beginner to Expert</li>
+                        <li class="mb-2">Bridge the Gap</li>
+                        <li class="mb-2">Bug Bounty Beginner to Master</li>
+                        <li class="mb-2">এপিআই হান্টিং জিরো থেকে হিরো</li>
+                        <li class="mb-2">ক্লায়েন্ট হান্টিং মাস্টারি অন লিংকডইন</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- আত্মউন্নয়ন -->
+        <div class="col-md-6 col-lg-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-primary"><i class="fas fa-brain me-2"></i>আত্মউন্নয়ন</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">Mastering Goals: The Path to Achievement and Success</li>
+                        <li class="mb-2">HOW TO MAINTAIN A HAPPY SEXUAL LIFE</li>
+                        <li class="mb-2">How to Long Time in Sex: A Comprehensive Guide</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+      
+  <!-- Contributions Section -->
+<section class="bio-section">
+    <h2>🌟 পেশাগত অবদান</h2>
+    <div class="lead text-left" style="max-width: 800px; margin: 0 auto;">
+        <p class="fs-5">
+            <b>"সাহিত্য ও প্রযুক্তির মেলবন্ধনে তৈরি হয়েছে এক অনন্য ধারা। প্রতিটি লেখা হৃদয়ের গভীর থেকে উৎসারিত, প্রতিটি কোড লাইন পরিশ্রমের স্বাক্ষর। জ্ঞানের আলো ছড়িয়ে দেওয়াই আমার জীবনের ব্রত।"</b>
+        </p>
+        <p class="lead text-justify">
+            মোহাম্মদ শেখ শাহিনুর রহমান, একজন বহুমুখী প্রতিভাবান ব্যক্তি, যিনি জীবনের বিভিন্ন পর্যায়ে প্রযুক্তি, সাহিত্য এবং সাংবাদিকতার সম্মিলনে অসাধারণ সৃজনশীলতা প্রদর্শন করেছেন। তাঁর জন্ম ১৫ মে কিশোরগঞ্জের এক সম্ভ্রান্ত মুসলিম পরিবারে, যেখানে ধর্মীয় ও সাংস্কৃতিক মূল্যবোধের প্রভাব ছিল। তাঁর পিতা মোহাম্মদ মরহুম মন্তাজ উদ্দিন ফকির এবং মাতা ফাতেমা বেগম থেকে তিনি শিখেছেন মানবতা, পরিশ্রম এবং নৈতিকতার মূল্যমাণ ধারণা।
+        </p>
+        <p class="lead text-justify">
+            ছোটবেলা থেকেই শাহিনুর রহমান মেধার ঝলক দেখিয়েছেন। বাজিতপুর সরকারি কলেজ থেকে এইচএসসি পাস করার পর, উচ্চশিক্ষার জন্য তিনি হংকং ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি-তে সফটওয়্যার ইঞ্জিনিয়ারিংয়ের অধ্যয়ন করেন। সেখানে তাঁর শিক্ষাজীবন শুধুমাত্র প্রযুক্তিগত দক্ষতা অর্জনে সীমাবদ্ধ ছিল না, বরং সৃজনশীল চিন্তাভাবনা ও নান্দনিকতা বিকাশের ক্ষেত্রেও তিনি এগিয়ে যান।
+        </p>
+        <p class="lead text-justify">
+            কর্মজীবনের শুরুতেই মোহাম্মদ শেখ শাহিনুর রহমান প্রযুক্তি ও সাংবাদিকতার মেলবন্ধনে নিজেকে প্রতিষ্ঠিত করেন। তাঁর লেখনীতে জীবনের বাস্তবতা, মানবিক সম্পর্ক, প্রেম, আত্মউন্নয়ন এবং প্রযুক্তির জটিল জগৎ এক অনন্য সমন্বয় সৃষ্টি করে। প্রতিটি লেখা যেন হৃদয়ের গভীর থেকে নিঃসৃত আবেগ ও পরিশ্রমের নিদর্শন, যা পাঠকের মনে স্থায়ী ছাপ ফেলে।
+        </p>
+        <p class="lead text-justify">
+            সাহিত্য জগতে তাঁর অবদান অনন্য। বাংলা সাহিত্যে আধুনিক ভাবনা ও আবেগপ্রবণ ভাষার মিশ্রণে নতুন ধারার সূচনা করে, তিনি পাঠকের মন ও মনের গভীরে অনন্য ছাপ ফেলেছেন। তাঁর কবিতায় জীবনের বাস্তবতা ও দার্শনিক চিন্তাভাবনা স্পষ্টভাবে প্রতিফলিত হয়, যেখানে প্রেম, ক্ষতি, অস্তিত্ব এবং মানব সম্পর্কের জটিলতা চিত্রিত হয়েছে। তাঁর প্রথম কবিতা "অপরিচিত" থেকেই তাঁর সৃষ্টিশীল যাত্রা শুরু হয়, যা পরবর্তীতে অনেকে অনুপ্রেরণার উৎস হিসেবে গ্রহণ করেন।
+        </p>
+        <p class="lead text-justify">
+            প্রযুক্তি ক্ষেত্রে, তিনি সফটওয়্যার ইঞ্জিনিয়ারিং, সাইবার সিকিউরিটি এবং ডিজিটাল মার্কেটিং-এর মাধ্যমে প্রযুক্তিগত জ্ঞানের বিস্তার ঘটিয়েছেন। তাঁর গবেষণা ও উদ্ভাবনী চিন্তাভাবনা শুধু প্রযুক্তির উন্নয়নেই অবদান রাখেনি, বরং সামাজিক ও অর্থনৈতিক উন্নয়নে সহায়ক ভূমিকা পালন করেছে। তথ্যপ্রযুক্তির জগতে তাঁর উদ্ভাবনী পদক্ষেপগুলো ডিজিটাল নিরাপত্তা ও উন্নয়নের মডেল হিসেবে ব্যাপক প্রশংসিত।
+        </p>
+        <p class="lead text-justify">
+            মোহাম্মদ শেখ শাহিনুর রহমানের সৃজনশীলতা, নেতৃত্ব এবং উদ্ভাবনী চিন্তাধারা কেবল পুরস্কার বা স্বীকৃতির মাধ্যমে সীমাবদ্ধ নয়; তাঁর কাজ, গবেষণা ও অনন্য লেখনী সমাজে এবং প্রযুক্তিগত উন্নয়নে গভীর প্রভাব ফেলেছে। তিনি তরুণ প্রজন্মের জন্য অনুপ্রেরণার উৎস হিসেবে কাজ করে যাচ্ছেন, যারা প্রতিভা ও কঠোর পরিশ্রমের মাধ্যমে ভবিষ্যতে সমাজে পরিবর্তন আনার স্বপ্ন দেখেন।
+        </p>
+        <p class="lead text-justify">
+            সাহিত্য ও প্রযুক্তির মিলনে, মোহাম্মদ শেখ শাহিনুর রহমান এক অনন্য ধারা তৈরি করেছেন যা কেবল বাংলাভাষী পাঠকদের মধ্যে নয়, আন্তর্জাতিক ক্ষেত্রেও প্রতিধ্বনিত হয়েছে। তাঁর সাহিত্যকর্মে রবীন্দ্রনাথ ঠাকুর, কাজী নজরুল ইসলাম, জীবনানন্দ দাশ, পাবলো নেরুদা ও রূপী কৌর-এর প্রভাব স্পষ্টভাবে অনুধাবিত হয়, যা তাঁর রচনার গভীরতা ও বহুমাত্রিকতা প্রদর্শন করে। তাঁর লেখার ভাষা ও ভাবাবেগ পাঠকের মনকে ছুঁয়ে যায় এবং অনুপ্রেরণা যোগায়।
+        </p>
+        <p class="lead text-justify">
+            এছাড়াও, সাহিত্য সংক্রান্ত উদ্যোগ যেমন 'কবিতা-কবিতা'র মাধ্যমে তিনি উদীয়মান কবিদের উৎসাহিত করেন এবং সাহিত্যের আলোকে আরও ব্যাপকভাবে ছড়িয়ে দেন। এই উদ্যোগগুলি শুধু সাহিত্যিক সম্প্রদায়ের সমন্বয়ে কাজ করে না, বরং নতুন প্রতিভার আবির্ভাবে সহায়ক ভূমিকা পালন করে। তাঁর এই প্রচেষ্টা বাংলা সাহিত্যের অগ্রগতিতে এক উল্লেখযোগ্য অবদান হিসেবে বিবেচিত।
+        </p>
+        <p class="lead text-justify">
+            সামগ্রিকভাবে, মোহাম্মদ শেখ শাহিনুর রহমানের কর্মজীবন ও অবদান আমাদেরকে স্মরণ করিয়ে দেয় যে, প্রতিভা, সৃজনশীলতা ও কঠোর পরিশ্রমের মাধ্যমে সমাজে বাস্তব পরিবর্তন আনা সম্ভব। তাঁর জীবন ও কাজ যুগান্তকারী উদ্ভাবনের এক উদাহরণ, যা আগামী প্রজন্মকে উদ্দীপিত করে এবং ভবিষ্যতের জন্য এক অনুপ্রেরণামূলক পথ প্রদর্শক হিসেবে কাজ করে।
+        </p>
+    </div>
+</section>
+
+
+
+        <!-- Social Links Section -->
+        <section class="bio-section text-center">
+            <h2>📱 সামাজিক যোগাযোগ</h2>
+            <div class="d-flex justify-content-center flex-wrap">
+                <a href="https://shahinur.amadersomaj.com/" target="_blank" class="btn btn-social mb-2">
+                    <i class="fas fa-globe me-2"></i>ওয়েবসাইট
+                </a>
+                <a href="https://web.facebook.com/Shahinurrahman.0.Official" target="_blank" class="btn btn-social mb-2">
+                    <i class="fab fa-facebook me-2"></i>ফেসবুক
+                </a>
+                <a href="https://x.com/Shahinalam3546" target="_blank" class="btn btn-social mb-2">
+                    <i class="fab fa-twitter me-2"></i>টুইটার
+                </a>
+                <a href="https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/" target="_blank" class="btn btn-social mb-2">
+                    <i class="fab fa-linkedin me-2"></i>লিংকডইন
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
