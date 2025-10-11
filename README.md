@@ -1,51 +1,87 @@
+# Mohammad Sheikh Shahinur Rahman
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)  
+[![GitHub](https://img.shields.io/badge/GitHub-@mohammad--sheikh--shahinur--rahman-black?logo=github)](https://github.com/mohammad-sheikh-shahinur-rahman/)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman)  
+[![Goodreads](https://img.shields.io/badge/Goodreads-Profile-blue?logo=goodreads)](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)  
 
----
-
-# মোহাম্মদ শেখ শাহিনুর রহমান
-
-**কবি | লেখক | সফটওয়্যার ইঞ্জিনিয়ার | প্রোগ্রামার | ডিজিটাল ফরেনসিক বিশেষজ্ঞ | প্রযুক্তি উদ্ভাবক**
----
-
-মোহাম্মদ শেখ শাহিনুর রহমান—বাংলার ভূমিতে জন্ম নেওয়া এমন এক আলোকবর্তিকা, যিনি প্রযুক্তির সিঁড়ি বেয়ে সাহিত্যের অলিন্দে হেঁটেছেন দৃষ্টান্ত স্থাপন করে। তাঁর জন্ম ১৫ মে, কিশোরগঞ্জের এক ধর্মনিষ্ঠ ও সংস্কৃতিমনা মুসলিম পরিবারে। পিতা মরহুম মোহাম্মদ মন্তাজ উদ্দিন ফকির ও মাতা ফাতেমা বেগম-এর কাছ থেকে শিখেছেন মানবিকতা, নৈতিকতা ও কঠোর পরিশ্রমের পাঠ, যা আজও তাঁর জীবনের প্রতিটি পরতে প্রতিফলিত হয়।
-
-### শিক্ষা ও প্রযুক্তি-ভুবনের যাত্রা
-
-ছোটবেলা থেকেই মেধার উজ্জ্বল দীপ্তিতে আলোকিত শাহিনুর রহমান বাজিতপুর সরকারি কলেজে পড়াশোনা শেষে উচ্চশিক্ষার জন্য পাড়ি জমান হংকং ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজিতে। সফটওয়্যার ইঞ্জিনিয়ারিং নিয়ে অধ্যয়নকালে শুধু প্রযুক্তিগত পারদর্শিতাই নয়, বরং সৃজনশীলতা, নান্দনিকতা ও চিন্তাশক্তির দিগন্তও প্রশস্ত করেন।
-
-### প্রযুক্তি ও উদ্ভাবনের প্রহরী
-
-তাঁর প্রযুক্তি জ্ঞান শুধু কোডের গণ্ডিতেই সীমাবদ্ধ নয়। তিনি সাইবার সিকিউরিটি, সফটওয়্যার আর্কিটেকচার, এআই ও ডিজিটাল মার্কেটিং—প্রতিটি ক্ষেত্রে দক্ষতার অনন্য নজির স্থাপন করেছেন। বিভিন্ন উদ্ভাবনী প্রকল্পের মাধ্যমে সমাজে নিরাপত্তা, কার্যকর তথ্যপ্রবাহ এবং ডিজিটাল সাম্য প্রতিষ্ঠায় রেখেছেন বলিষ্ঠ পদক্ষেপ।
-
-### সাহিত্যচর্চা—মননের আরেক প্রকাশ
-
-তাঁর সাহিত্যজীবন শুরু হয় কবিতা “অপরিচিত” দিয়ে। সেখান থেকে শুরু হয়ে আজ পর্যন্ত তাঁর লেখায় উঠে এসেছে প্রেম, বেদনা, সমাজ, আত্মজিজ্ঞাসা ও অস্তিত্বের চিরন্তন প্রশ্ন। তাঁর কলমে কখনও প্রেমিকের দীর্ঘশ্বাস, কখনও মায়ের চোখের জল, কখনও রাষ্ট্রের অন্ধকার কোণে সঞ্চিত বিদ্রোহ কণ্ঠ পায়।
-
-রবীন্দ্রনাথ, নজরুল, জীবনানন্দ, পাবলো নেরুদা কিংবা রূপী কৌরের প্রভাব তাঁকে প্রভাবিত করলেও, তিনি গড়েছেন নিজস্ব এক কাব্যভাষা—যেখানে আধুনিকতা, আবেগ ও বুদ্ধিদীপ্ত ব্যঞ্জনা একত্রে ধ্বনিত হয়।
-
-### সাংবাদিকতা ও সমাজচিন্তার গলিঘুঁজিতে
-
-তিনি কেবল প্রযুক্তি ও সাহিত্যেই সীমাবদ্ধ নন। সমাজকে বদলে দিতে, নিপীড়নের গল্প বলতে, অধিকারহীন কণ্ঠস্বরকে তুলে ধরতে কাজ করেছেন সাংবাদিক হিসেবেও। সমাজ-সংস্কৃতি, প্রযুক্তি ও মানবিকতার মেলবন্ধনে তিনি গড়েছেন নতুন এক দৃষ্টিভঙ্গি।
-
-### সাহিত্য-উদ্যোগ ও নেতৃত্ব
-
-"**কবিতা-কবিতা**" নামক প্ল্যাটফর্মটি তাঁর অন্যতম উদ্যোগ, যার মাধ্যমে নবীন কবিদের তুলে আনা, সাহিত্যের পরিসর বিস্তৃত করা এবং সাহিত্যিকদের মধ্যে এক বন্ধন তৈরি করা তাঁর নিরন্তর প্রয়াস। এটি আজ বাংলা সাহিত্যচর্চার একটি সক্রিয় আন্দোলন হয়ে উঠেছে।
-
-### অনুপ্রেরণার প্রতীক
-
-মোহাম্মদ শেখ শাহিনুর রহমান কেবল একজন ব্যক্তি নন—তিনি এক চিন্তাধারা, এক অভিমুখ, যাঁর জীবন তরুণ প্রজন্মকে শেখায় কিভাবে প্রতিভা, নিষ্ঠা ও মানবিকতা দিয়ে বদলে দেওয়া যায় সমাজ, গড়া যায় ভবিষ্যৎ।
-
-### উপসংহার
-
-তাঁর কাজ, তাঁর কলম, তাঁর কোড—সবকিছু একত্রে এক বর্ণময় চিত্র আঁকে, যেখানে প্রযুক্তি ও কবিতার সেতুবন্ধন, গবেষণা ও হৃদয়ের উচ্ছ্বাস, বাস্তবতা ও কল্পনার সহাবস্থান দেখা যায়। তিনি সেই বিরল মানুষদের একজন, যাঁরা পাণ্ডুলিপি ও প্রোগ্রামের মধ্যখানে দাঁড়িয়ে একটি ভবিষ্যতের ক্যানভাস রঙে রঙে ভরিয়ে তুলছেন।
+**Software Engineer | CTO | Digital Forensics Expert | Author | Researcher | AI & Cybersecurity Enthusiast**
 
 ---
 
-🖋️ **মোহাম্মদ শেখ শাহিনুর রহমান**
-*প্রযুক্তিবিদ, সাহিত্যিক ও সমাজভাবনা কেন্দ্রিক নির্মাতা*
+## 👋 About Me
 
-> "যেখানে কোড শেষ হয়, সেখান থেকেই শুরু হয় কবিতার ভাষা।" – মোহাম্মদ শেখ শাহিনুর রহমান
+I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, author, and researcher. I specialize in **software engineering, digital forensics, AI, and cybersecurity**, while passionately exploring literature and poetry.  
+
+- 💡 **CTO** at IT Amadersomaj Inc.  
+- 🎓 **BSc in Software Engineering**, HKUST  
+- 📚 **Author** of 30+ books in technology and literature  
+- 🔬 **Researcher** in Cybersecurity & Digital Humanities (Ph.D. Candidate)  
+- 🌱 **Lifelong Learner & Mentor**  
+
+> "Where code ends, poetry begins." – Mohammad Sheikh Shahinur Rahman  
 
 ---
 
+## 🛠️ Technical Skills
 
+| Category | Skills |
+|----------|--------|
+| **Programming Languages** | Python, Java, C++, PHP, Dart (Flutter) |
+| **Frameworks & Libraries** | Flutter, React, Next.js, Tailwind CSS, Bootstrap |
+| **Databases & Cloud** | MySQL, Firebase, AWS, Google Drive Backup |
+| **AI & Machine Learning** | NLP, ML Integration, Predictive Analytics |
+| **Cybersecurity & Forensics** | Penetration Testing, Digital Forensics, Threat Analysis |
+| **DevOps & Tools** | Git, GitHub, Docker, CI/CD Pipelines |
+
+---
+
+## 📊 GitHub Stats
+
+[![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-sheikh-shahinur-rahman&show_icons=true&theme=radical)](https://github.com/mohammad-sheikh-shahinur-rahman)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sheikh-shahinur-rahman&layout=compact&theme=radical)](https://github.com/mohammad-sheikh-shahinur-rahman)  
+
+---
+
+## 📚 Literary Works & Publications
+
+I am a prolific **author and poet**, exploring themes of society, love, philosophy, and technology.  
+
+- **Books & Series**:
+  - *Where Truth Hides*  
+  - *Death or You*  
+  - *Bug Bounty: Beginner to Master*  
+  - *আত্মার আর্তনাদ*  
+  - *রুবায়েত-ই-শাহিন*  
+  - *চুপকথার চিঠি*  
+  - *বিদ্রোহ-নামা*  
+
+- **Online Profiles & Publications**:
+  - [Kobo](https://www.kobo.com/ww/en/ebook/where-truth-hides?srsltid=AfmBOopHhyJ1JSxSw3x0hW8GvLQIXTP_vJOlKD8yxCsbYvBamktPdQo-)  
+  - [Boisodai](https://www.boisodai.com/product/death-or-you-mohammad-sheikh-shahinur-rahman/IEBx/)  
+  - [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)  
+  - [Rakuten](https://books.rakuten.co.jp/rk/80082dd348c33958b8978e7f125aec23/)  
+  - [Amazon](https://amazon.com/stores/Mohammad-Sheikh-Shahinur-Rahman/author/B0DHY6ZCKL)  
+
+---
+
+## 🌐 Projects & Contributions
+
+- **[SmartNote AI](https://smart-note-ai-one.vercel.app/)** – AI-powered note-taking app with offline-first storage, summarization, and voice-to-text.  
+- **[NeerBazar](https://neer-bazar.vercel.app/)** – Premium e-commerce platform supporting all Bangladeshi payment methods.  
+- **[MedichinalArt](https://github.com/mohammad-sheikh-shahinur-rahman/medichinalart)** – Medicine reminder and management app with QR & backup integration.  
+
+---
+
+## 📫 Contact
+
+
+- **LinkedIn**: [linkedin.com/in/mohammad-sheikh-shahinur-rahman](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)  
+- **GitHub**: [github.com/mohammad-sheikh-shahinur-rahman](https://github.com/mohammad-sheikh-shahinur-rahman/)  
+
+---
+
+## ⚡ Philosophy
+
+I believe **technology and literature are complementary forces**, both requiring creativity, intuition, and structure. My work strives to merge innovation, ethics, and human emotion.
