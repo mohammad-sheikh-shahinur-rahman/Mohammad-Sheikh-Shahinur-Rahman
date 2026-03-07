@@ -87,7 +87,7 @@ I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, researcher
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sheikh-shahinur-rahman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sheikh-shahinur-rahman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
