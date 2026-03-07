@@ -5,25 +5,23 @@
 </p>
 
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mohammad-sheikh-shahinur-rahman)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mohammad-sheikh-shahinur-rahman) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman) 
 [![Goodreads](https://img.shields.io/badge/Goodreads-Profile-orange?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
-
 </p>
 
 ---
 
 # 👋 About Me
 
-I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, researcher, and author working at the intersection of **software engineering, cybersecurity, artificial intelligence, and literature**.
+I’m **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, author, and researcher blending **software engineering, AI, cybersecurity, and literature**.  
 
-- 💼 **CTO — IT Amadersomaj Inc.**
-- 🎓 **BSc in Software Engineering — HKUST**
-- 🔬 **Researcher — Cybersecurity & Digital Humanities**
-- 📚 **Author of 30+ Books**
-- 🌏 **Country — Bangladesh**
+- 💼 **CTO — IT Amadersomaj Inc.**  
+- 🎓 **BSc in Software Engineering — HKUST**  
+- 🔬 **Researcher — Cybersecurity & Digital Humanities**  
+- 📚 **Author of 30+ Books**  
+- 🌏 **Based in — Bangladesh**  
 
 > **"Where code ends, poetry begins."**
 
@@ -32,10 +30,10 @@ I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, researcher
 # 🧠 Technical Skills
 
 | Category | Skills |
-|--------|--------|
+|----------|--------|
 | Programming | Python, Java, C++, PHP, Dart |
 | Frameworks | Flutter, React, Next.js |
-| UI | Tailwind CSS, Bootstrap |
+| UI/UX | Tailwind CSS, Bootstrap |
 | Databases | MySQL, Firebase |
 | Cloud | AWS |
 | AI | NLP, Machine Learning Integration |
@@ -46,22 +44,22 @@ I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, researcher
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,php,dart"/>
 </p>
 
-### Frameworks
+### Frameworks & Libraries
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,bootstrap,tailwind"/>
 </p>
 
-### Databases
+### Databases & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,aws"/>
 </p>
 
-### Dev Tools
+### Tools & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 </p>
@@ -71,62 +69,52 @@ I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, researcher
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammad-sheikh-shahinur-rahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="165" src="https://streak-stats.demolab.com?user=mohammad-sheikh-shahinur-rahman&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📊 Most Used Languages
-
+# 📈 Most Used Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,php,dart"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
+# 🌟 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-sheikh-shahinur-rahman&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
 ---
 
 # 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/mohammad-sheikh-shahinur-rahman/output/github-contribution-grid-snake.svg"/>
+<img src="./output/github-contribution-grid-snake.svg" />
 </p>
-
 
 ---
 
 # 🌐 Major Projects
 
 | Project | Description |
-|------|-------------|
-| **SmartNote AI** | AI-powered note taking app |
+|--------|-------------|
+| **SmartNote AI** | AI-powered note-taking app |
 | **NeerBazar** | Bangladeshi e-commerce platform |
 | **MedichinalArt** | Medicine reminder app |
-| **Smart Lawyer Diary** | Case management system |
-| **Smritir Baksho** | Personal memory archive |
+| **Smart Lawyer Diary** | Case management system for lawyers |
+| **Smritir Baksho** | Personal memory archive app |
 
 ---
 
 # 📚 Books
 
 ### Technology
-
-- Bug Bounty: Beginner to Master
-- Cyber Intelligence Fundamentals
+- Bug Bounty: Beginner to Master  
+- Cyber Intelligence Fundamentals  
 
 ### Literature
-
 - আত্মার আর্তনাদ  
 - রুবায়েত-ই-শাহিন  
 - চুপকথার চিঠি  
@@ -148,11 +136,9 @@ I am **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi technologist, researcher
 
 # 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/mohammad-sheikh-shahinur-rahman  
-- GitHub: https://github.com/mohammad-sheikh-shahinur-rahman  
-- ResearchGate: https://researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman  
-
----
+- LinkedIn: [Profile](https://linkedin.com/in/mohammad-sheikh-shahinur-rahman)  
+- GitHub: [Profile](https://github.com/mohammad-sheikh-shahinur-rahman)  
+- ResearchGate: [Profile](https://researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman)  
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mohammad-sheikh-shahinur-rahman&style=for-the-badge&color=blue"/>
