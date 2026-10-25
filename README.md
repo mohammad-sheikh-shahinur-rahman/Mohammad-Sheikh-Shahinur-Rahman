@@ -160,7 +160,7 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixora Studio 0.15.1 — Professional Photo Editor](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases/tag/v0.15.1)
+- [Pixora Studio v0.15.1](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases/tag/v0.15.1)
 - [Still using XAMPP, WAMP, or Laragon?](https://medium.com/@shahinalam3546/still-using-xampp-wamp-or-laragon-d65bc07c460f?source=rss-1ba061d5d6c8------2)
 - [Meet BanglaHost — Your Modern Local Web Development Ecosystem for Windows](https://medium.com/@shahinalam3546/meet-banglahost-your-modern-local-web-development-ecosystem-for-windows-c9f8f9032b7f?source=rss-1ba061d5d6c8------2)
 - [“ — 403](https://medium.com/@shahinalam3546/403-633aeb8993e7?source=rss-1ba061d5d6c8------2)
