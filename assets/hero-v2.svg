@@ -39,47 +39,47 @@
 
   <!-- vertical circuit lines -->
   <g stroke="#2f7bf5" stroke-opacity="0.30">
-    <line x1="120" y1="60" x2="120" y2="180"/>
-    <line x1="1080" y1="70" x2="1080" y2="190"/>
+    <line x1="34" y1="52" x2="34" y2="148"/>
+    <line x1="1166" y1="52" x2="1166" y2="148"/>
   </g>
-  <circle cx="120" cy="60" r="4" fill="#6fa4ff">
+  <circle cx="34" cy="52" r="4" fill="#6fa4ff">
     <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1080" cy="70" r="4" fill="#f7c744">
+  <circle cx="1166" cy="52" r="4" fill="#f7c744">
     <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- scanning bar -->
-  <rect x="140" y="248" width="920" height="2.5" fill="url(#scan)">
+  <!-- orbit rings (top-right corner, clear of the title) -->
+  <g opacity="0.55">
+    <circle cx="1120" cy="72" r="42" fill="none" stroke="#2f7bf5" stroke-opacity="0.35" stroke-dasharray="4 7">
+      <animateTransform attributeName="transform" type="rotate" from="0 1120 72" to="360 1120 72" dur="26s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="72" r="28" fill="none" stroke="#f7c744" stroke-opacity="0.35" stroke-dasharray="3 6">
+      <animateTransform attributeName="transform" type="rotate" from="360 1120 72" to="0 1120 72" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- scanning bar over the status row -->
+  <rect x="140" y="212" width="920" height="2.5" fill="url(#scan)">
     <animate attributeName="x" values="140;400;140" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- orbit rings -->
-  <g opacity="0.5">
-    <circle cx="985" cy="118" r="56" fill="none" stroke="#2f7bf5" stroke-opacity="0.35" stroke-dasharray="4 7">
-      <animateTransform attributeName="transform" type="rotate" from="0 985 118" to="360 985 118" dur="26s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="985" cy="118" r="38" fill="none" stroke="#f7c744" stroke-opacity="0.35" stroke-dasharray="3 6">
-      <animateTransform attributeName="transform" type="rotate" from="360 985 118" to="0 985 118" dur="18s" repeatCount="indefinite"/>
-    </circle>
-    <text x="985" y="126" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30">🦀</text>
-  </g>
+  <text x="70" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="5" fill="#6fa4ff" opacity="0.9">◤ SYSTEM ONLINE</text>
 
-  <text x="70" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="6" fill="#6fa4ff" opacity="0.9">◤ SYSTEM ONLINE</text>
+  <!-- title: always fits, spacing/glyphs squeezed as needed -->
+  <text x="60" y="152" textLength="1080" lengthAdjust="spacingAndGlyphs" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="46" fill="url(#nameGrad)">MOHAMMAD SHEIKH SHAHINUR RAHMAN</text>
 
-  <text x="70" y="180" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="52" letter-spacing="1" fill="url(#nameGrad)">MOHAMMAD SHEIKH SHAHINUR RAHMAN</text>
-
-  <text x="72" y="222" font-family="Consolas, monospace" font-size="20" letter-spacing="3" fill="#98a2b3">SOFTWARE ENGINEER × POET × AUTHOR OF<tspan fill="#f7c744" font-weight="700"> 36+ BOOKS</tspan></text>
+  <text x="72" y="192" font-family="Consolas, monospace" font-size="18" letter-spacing="2" fill="#98a2b3">SOFTWARE ENGINEER × POET × AUTHOR OF 36+ BOOKS</text>
 
   <!-- animated status pills -->
   <g font-family="Consolas, monospace" font-size="15">
-    <rect x="70" y="248" width="188" height="30" rx="15" fill="#12161e" stroke="#2f7bf5" stroke-opacity="0.5"/>
-    <text x="86" y="268" fill="#6fa4ff">● building: pixora</text>
-    <rect x="270" y="248" width="212" height="30" rx="15" fill="#12161e" stroke="#2f7bf5" stroke-opacity="0.5"/>
-    <text x="286" y="268" fill="#6fa4ff">λ stack: rust · wgpu</text>
-    <rect x="494" y="248" width="196" height="30" rx="15" fill="#12161e" stroke="#f7c744" stroke-opacity="0.55"/>
-    <text x="510" y="268" fill="#f7c744">✎ writing: poetry</text>
+    <rect x="70" y="244" width="188" height="30" rx="15" fill="#12161e" stroke="#2f7bf5" stroke-opacity="0.5"/>
+    <text x="86" y="264" fill="#6fa4ff">● building: pixora</text>
+    <rect x="270" y="244" width="180" height="30" rx="15" fill="#12161e" stroke="#2f7bf5" stroke-opacity="0.5"/>
+    <text x="286" y="264" fill="#6fa4ff">λ stack: rust · wgpu</text>
+    <rect x="462" y="244" width="168" height="30" rx="15" fill="#12161e" stroke="#f7c744" stroke-opacity="0.55"/>
+    <text x="478" y="264" fill="#f7c744">✎ writing: poetry</text>
   </g>
 
-  <text x="1130" y="60" text-anchor="end" font-family="Consolas, monospace" font-size="14" fill="#5d6675">// est. Kishoreganj, BD</text>
+  <text x="1166" y="270" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#5d6675">// est. Kishoreganj, BD</text>
 </svg>

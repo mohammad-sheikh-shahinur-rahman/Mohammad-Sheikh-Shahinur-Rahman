@@ -1,8 +1,8 @@
-<img src="assets/hero.svg" width="100%" alt="Mohammad Sheikh Shahinur Rahman — Software Engineer × Poet × Author of 36+ books"/>
+<img src="assets/hero-v2.svg" width="100%" alt="Mohammad Sheikh Shahinur Rahman — Software Engineer × Poet × Author of 36+ books"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=6FA4FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%E2%9A%A1+Crafting+Pixora+Studio+%E2%80%94+a+professional+photo+editor+in+pure+Rust;%F0%9F%93%9A+Published+poet+%E2%80%94+36%2B+books+across+poetry%2C+code+%26+security;%F0%9F%96%A5%EF%B8%8F+Software+%C3%97+Cybersecurity+%C3%97+Digital+forensics;%F0%9F%8C%8F+Free+%2B+open+source+%2B+offline" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&pause=1400&color=6FA4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%E2%9A%A1+Pixora+Studio+%E2%80%94+a+photo+editor+in+pure+Rust;%F0%9F%93%9A+36%2B+published+books+%E2%80%94+poetry%C2%B7code%C2%B7security;%F0%9F%94%92+cybersecurity+%C3%97+digital+forensics;%F0%9F%8C%8D+free+%C2%B7+open+source+%C2%B7+offline" alt="typing"/>
 
 </div>
 
