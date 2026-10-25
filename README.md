@@ -57,41 +57,39 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
-## ⭐ Flagship — Pixora Studio
-
-<div align="center">
+---
+<p align="center">
   <a href="https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor">
     <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/docs/brand/pixora-studio-logo.png" width="110" alt="Pixora Studio logo"/>
   </a>
+</p>
 
-### [Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor)
-**Professional Photo Editing. Free for Everyone.**
+## 🌟 [Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor) — Flagship
+
+<div align="center">
+<b>Professional Photo Editing. Free for Everyone.</b><br/>
+<sub>A native, GPU-accelerated photo editor written <b>entirely in Rust</b> — zero Electron, zero webviews.</sub><br/><br/>
 
 [![Site](https://img.shields.io/badge/%F0%9F%8C%90-Live_Website-2f7bf5?style=flat-square)](https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/)
 [![Docs](https://img.shields.io/badge/%F0%9F%93%96-Documentation-6fa4ff?style=flat-square)](https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/docs/)
 [![Download](https://img.shields.io/badge/%E2%AC%87-Download_Windows-22c55e?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases/latest)
+[![Repo](https://img.shields.io/badge/%E2%AD%90-Star_on_GitHub-f7c744?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/stargazers)
 
 </div>
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+- 🎛️ **Familiar by design** — the menus, shortcuts and dockable panels professionals already know
+- ⚡ **Native & lightning fast** — pure Rust + GPU compositor on wgpu, tile-parallel, copy-on-write memory
+- 🗂️ **True PSD fidelity** — layered PSD/PSB in and out: blend modes, masks, smart objects
+- 🖼️ **Color-managed precision** — full ICC workflows, 8/16/32-bit, RGB·Gray·CMYK·Lab
+- 🔒 **100% offline & free** — no accounts, no cloud, no telemetry. Your machine, your work.
+- 🤖 **Automation-first** — every feature is a command: headless CLI, Photoshop-compatible Actions, MCP for agents
 
-🎛️ **Familiar by design** — the menus, shortcuts and dockable panels professionals already know
-⚡ **Native & lightning fast** — pure Rust + GPU compositor on wgpu, tile-parallel, copy-on-write memory, **zero Electron**
-🗂️ **True PSD fidelity** — layered PSD/PSB in and out, blend modes, masks, smart objects
-🖼️ **Color-managed precision** — full ICC workflows, 8/16/32-bit, RGB·Gray·CMYK·Lab
-🔒 **100% offline & free** — no accounts, no cloud, no telemetry. Your machine, your work.
-🤖 **Automation-first** — every feature is a command: headless CLI, Photoshop-compatible Actions, MCP for agents
-
-    </td>
-    <td width="38%">
-      <a href="https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/">
-        <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/site/assets/demo.jpg" width="100%" alt="Pixora Studio screenshot"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/">
+    <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/site/assets/demo.jpg" width="82%" alt="Pixora Studio screenshot"/>
+  </a><br/>
+  <sub>Native GPU composition with live type, Curves &amp; Vibrance adjustment layers, and drop-shadow layer styles.</sub>
+</p>
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
@@ -99,26 +97,16 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 
 <div align="center">
 
-**🎬 [Recova Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Recova-Studio)** · `TypeScript`
-Modern, offline-first screen recorder & AI video editor with smooth cursor effects — plus its own [wiki & portals](https://github.com/mohammad-sheikh-shahinur-rahman/RECOVA-STUDIO-WIKI).
-
-**⌨️ [BanglaType](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType)** (+ [Android](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType-Android), Kotlin · C#/VB)
-A powerful, lightweight, professional-grade **Bangla typing software** — desktop to Android.
-
-**🌐 [BanglaHost](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaHost)** · `C#`
-Modern Windows local development environment for PHP & Laravel — local server, one click.
-
-**🔧 [WinForge](https://github.com/mohammad-sheikh-shahinur-rahman/WinForge)** · `C# / WPF`
-A modern Windows system toolkit built on .NET 10.
-
-**🐦 [Parot](https://github.com/mohammad-sheikh-shahinur-rahman/Parot-The-Ultimate-Lifelike-Desktop-Bird-Companion-for-Windows)** · `C#`
-A lifelike desktop bird companion for Windows — fun meets engineering.
-
-**📄 [Chukthipotro](https://github.com/mohammad-sheikh-shahinur-rahman/Chukthipotro)** · `TypeScript`
-Bangladesh-focused Bengali/English **contract builder** with stamp-paper inspired visuals.
-
-**✉️ [SMail](https://github.com/mohammad-sheikh-shahinur-rahman/SMail)** · `Dart` · **🧾 [Ledgerly](https://github.com/mohammad-sheikh-shahinur-rahman/ledgerly-invoice-manager)** · `TypeScript`
-A clean email client, and a bilingual invoice & cash-memo platform.
+| | |
+|--|--|
+| 🎬 **[Recova Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Recova-Studio)** · `TypeScript` | Offline-first screen recorder & AI video editor with smooth cursor effects — plus its own [wiki & ports](https://github.com/mohammad-sheikh-shahinur-rahman/RECOVA-STUDIO-WIKI) |
+| ⌨️ **[BanglaType](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType)** · [Android](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType-Android) · `C#`/`Kotlin` | Powerful, lightweight, professional-grade **Bangla typing software** — desktop to Android |
+| 🌐 **[BanglaHost](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaHost)** · `C#` | Modern Windows local development environment for PHP & Laravel — one-click local server |
+| 🔧 **[WinForge](https://github.com/mohammad-sheikh-shahinur-rahman/WinForge)** · `C# / WPF` | A modern Windows system toolkit built on .NET 10 |
+| 🐦 **[Parot](https://github.com/mohammad-sheikh-shahinur-rahman/Parot-The-Ultimate-Lifelike-Desktop-Bird-Companion-for-Windows)** · `C#` | A lifelike desktop bird companion for Windows — fun meets engineering |
+| 📄 **[Chukthipotro](https://github.com/mohammad-sheikh-shahinur-rahman/Chukthipotro)** · `TypeScript` | Bangladesh-focused Bengali/English **contract builder** with stamp-paper inspired visuals |
+| ✉️ **[SMail](https://github.com/mohammad-sheikh-shahinur-rahman/SMail)** · `Dart` | A clean, modern email client |
+| 🧾 **[Ledgerly](https://github.com/mohammad-sheikh-shahinur-rahman/ledgerly-invoice-manager)** · `TypeScript` | A bilingual invoice & cash-memo platform for IT service businesses |
 
 </div>
 
@@ -182,11 +170,6 @@ A clean email client, and a bilingual invoice & cash-memo platform.
   <img height="165" src="https://streak-stats.demolab.com?user=Mohammad-Sheikh-Shahinur-Rahman&hide_border=true&background=0D111700&ring=2F7BF5&fire=F7C744" alt="GitHub streak"/>
   <br>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sheikh-Shahinur-Rahman&layout=compact&hide_border=true&bg_color=0D111700&langs_count=8" alt="Top languages"/>
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Sheikh-Shahinur-Rahman&bg_color=0D111700&color=6FA4FF&line=2F7BF5&point=F7C744&hide_border=true" alt="Activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Sheikh-Shahinur-Rahman&theme=onestar&no-frame=true&no-bg=true&column=7" alt="trophy"/>
 </div>
 
 ### 🐍 Contribution Snake
