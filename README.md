@@ -1,441 +1,183 @@
-# Mohammad Sheikh Shahinur Rahman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Sheikh%20Shahinur%20Rahman&fontSize=38&fontAlignY=32&desc=Software%20Engineer%20%C3%97%20Poet%20%C3%97%20%F0%9F%93%9A%2024%20Books&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFA6&center=true&vCenter=true&width=900&height=80&lines=Software+Engineer+%7C+CTO+%7C+Digital+Forensics;Author+%7C+Researcher+%7C+AI+%26+Cybersecurity" alt="Typing SVG"/>
-  
-  **Building Technology & Literature Together**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=6FA4FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%E2%9A%A1+Crafting+Pixora+Studio+%E2%80%94+a+professional+photo+editor+in+pure+Rust;%F0%9F%93%9A+Published+poet+%E2%80%94+24+books+in+poetry%2C+code+%26+security;%F0%9F%96%A5%EF%B8%8F+Software+engineering+%C3%97+Cybersecurity+%C3%97+Digital+forensics;%F0%9F%8C%8F+Free+%2B+open+source+%2B+offline" alt="typing"/>
+
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  
-  [![LinkedIn][linkedin-badge]][linkedin-url]
-  [![GitHub][github-badge]][github-url]
-  [![ResearchGate][researchgate-badge]][researchgate-url]
-  [![Goodreads][goodreads-badge]][goodreads-url]
-  
-  [linkedin-badge]: https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin
-  [linkedin-url]: https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/
-  [github-badge]: https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github
-  [github-url]: https://github.com/mohammad-sheikh-shahinur-rahman
-  [researchgate-badge]: https://img.shields.io/badge/ResearchGate-Profile-00D084?style=flat-square&logo=researchgate
-  [researchgate-url]: https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman
-  [goodreads-badge]: https://img.shields.io/badge/Goodreads-Profile-F3F1A1?style=flat-square&logo=goodreads
-  [goodreads-url]: https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman
-  
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Mohammad-Sheikh-Shahinur-Rahman?style=for-the-badge&logo=github&color=2f7bf5&label=followers)](https://github.com/Mohammad-Sheikh-Shahinur-Rahman)
+[![GitHub Stars](https://img.shields.io/github/stars/mohammad-sheikh-shahinur-rahman?affiliations=OWNER&style=for-the-badge&logo=github&color=f7c744&label=stars)](https://github.com/Mohammad-Sheikh-Shahinur-Rahman)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-0a0e14?style=for-the-badge)](https://shahinur.amadersomaj.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00D084?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1A1?style=for-the-badge&logo=goodreads&logoColor=black)](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
+[![Rokomari Author](https://img.shields.io/badge/%F0%9F%93%9A-Rokomari_Author-E7262C?style=for-the-badge)](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+
 </div>
 
 ---
 
-## Quick Navigation
-
-| [💼 About](#about) | [🛠 Skills](#skills) | [🚀 Projects](#projects) | [📚 Books](#books) | [💼 Experience](#experience) | [📜 Certifications](#certifications) | [🏆 Awards](#awards) | [📊 Stats](#stats) | [🔬 Research](#research) | [📬 Contact](#contact) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
----
-
-## 💼 About Me {#about}
-
-Hi! I'm **Mohammad Sheikh Shahinur Rahman**, a Bangladeshi **technologist, author & researcher** blending **software engineering, AI, cybersecurity, and literature**.
+## 🚀 About Me
 
 <table>
-<tr>
-  <td>
-    <strong>🎯 Current Role:</strong> Software Engineer & CTO at Nextworld®<br>
-    <strong>🎓 Education:</strong> BSc in Software Engineering — HKUST<br>
-    <strong>📚 Postgraduate:</strong> PhD Student, National University of Bangladesh<br>
-    <strong>🌏 Location:</strong> Bangladesh<br>
-    <strong>📝 Publications:</strong> 30+ Published Books<br>
-    <strong>🏆 Credentials:</strong> Certified Forensic Expert<br>
-    <strong>🔬 Research Focus:</strong> Software Engineering, Cybersecurity & Digital Humanities
-  </td>
-</tr>
+  <tr>
+    <td width="55%" valign="top">
+
+Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Bangladesh who lives in two worlds at once: **code** and **poetry**. 🔥
+
+- 🦀 Building **[Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor)** — a native, GPU-accelerated professional photo editor written *entirely in Rust*: true PSD fidelity, no subscriptions, no webviews, no telemetry
+- 📚 **24 published books** — poetry 🔔, cybersecurity & pentesting 🛡️, and software engineering 💻 — published by *আমাদের সমাজ প্রকাশনী*
+- 🎓 BSc in Software Engineering — **HKUST**
+- 🛡️ Digital forensics & bug-bounty researcher — evidence-driven by training, imagination-driven by craft
+- 🎂 May 15 · 📍 Kishoreganj, Bangladesh
+- ✍️ *"I write poems so machines remember what it means to feel — and write software so art reaches everyone."*
+
+    </td>
+    <td width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/Mohammad-Sheikh-Shahinur-Rahman/Mohammad-Sheikh-Shahinur-Rahman/main/shahinur.jpg" width="260" alt="Mohammad Sheikh Shahinur Rahman" style="border-radius:50%"/>
+      <br><sub><b>Software Engineer × Poet</b></sub>
+    </td>
+  </tr>
 </table>
 
-### My Story
-
-I'm Mohammad Sheikh Shahinur Rahman—a professional shaped by **technology, creativity, and human experience**. As a Software Engineer, I'm driven not only by technical expertise but by a deep passion for life, people, emotions, and innovation. From childhood, three forces have guided me: the desire to create something new, the curiosity to understand the unknown, and the joy of solving problems with my own hands.
-
-**Technology** is my medium for creating real change in people's lives. **Literature** is my gateway to understanding the light and darkness within human souls. Through my work in **digital forensics**, I've learned to be analytical, research-driven, and evidence-based—qualities that enhance my project planning and problem-solving abilities.
-
-I believe human progress comes from the convergence of curiosity, dedication, honesty, and creativity. Every new project, every piece of writing, every new idea is an opportunity to learn and grow.
-
-> **"Where code ends, poetry begins."**
-
 ---
 
-## My Professional Identity
-
-As a Software Engineer with over a decade of experience, I've worked extensively on mobile apps, web applications, and business automation solutions. My professional foundation rests on **Flutter, React/Next.js, Core PHP, and MySQL**—tools with which I create fast, secure, effective, and user-friendly digital solutions.
-
-I've had the privilege to work on diverse projects including healthcare applications, QR-based systems, data management platforms, e-commerce websites, and AI-enriched smart note systems. Every project I undertake involves planning, research, user behavior analysis, and maximum technological application.
-
-**Notable Projects:**
-- 🏥 **MedicinalArt** — Healthcare reminder application
-- 💊 **Medicine Alert** — Smart medication tracking
-- 🧠 **SmartNote AI** — AI-powered note management system
-
----
-
-## My Literary Journey
-
-For me, writing is not just a profession—it's an inseparable part of my identity. I write about love, pain, time, solitude, self-reflection, rebellion, and human struggle. My language varies—sometimes calm, sometimes stormy; sometimes introspective, sometimes questioning.
-
-I'm a regular author on **Amazon KDP** (Author ID: 60190369) where my poetry collections and literary works have received significant recognition. Through my writings, I strive to express the silent feelings within people, hidden fears, unfulfilled dreams, and untold sorrows.
-
----
-
-## 🛠 Technical Skills {#skills}
-
-### Core Competencies
-
-| **Category** | **Skills** |
-|:---|:---|
-| 💻 **Programming** | Python · Java · C++ · PHP · Dart |
-| 🎨 **Frontend** | Flutter · React · Next.js · HTML5 · CSS3 |
-| 🎭 **UI/UX** | Tailwind CSS · Bootstrap · Material Design |
-| 🗄️ **Databases** | MySQL · Firebase · Firestore |
-| ☁️ **Cloud** | AWS · Firebase Cloud Functions |
-| 🤖 **AI/ML** | NLP · Machine Learning Integration · LLM Integration |
-| 🔐 **Security** | Penetration Testing · Digital Forensics · Vulnerability Assessment · Secure Systems |
-| 📊 **Data & Analysis** | Data Analysis · AI-Based Applications · Machine Learning |
-| 🛠️ **DevOps** | Git · GitHub · Docker · CI/CD |
-
-### Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-![Python][python] ![Java][java] ![C++][cpp] ![PHP][php] ![Dart][dart]
-![Flutter][flutter] ![React][react] ![Next.js][nextjs] 
-![Bootstrap][bootstrap] ![Tailwind CSS][tailwind]
-![MySQL][mysql] ![Firebase][firebase]
-![Git][git] ![GitHub][github] ![Docker][docker]
-![VS Code][vscode]
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,dart,flutter,java,python,js,html,css,git,linux,githubactions&perline=13" alt="tech stack"/>
 
-[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[cpp]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[php]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-[dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-[flutter]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-[react]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-[nextjs]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
-[bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-[tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[mysql]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-[firebase]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
-[git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[github]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-[docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-
+**⚡ Rust is my main weapon** — systems programming, GPU pipelines (wgpu), file-format parsing (PSD/ICC) and a zero-crash security model.
 </div>
 
 ---
 
-## 🚀 Projects {#projects}
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **SmartNote AI** | AI-powered intelligent note-taking application with ML-based organization | Python, NLP, Firebase |
-| **NeerBazar** | Full-featured Bangladeshi e-commerce platform with payment integration | React, Node.js, MySQL |
-| **MedicinalArt** | Smart medicine reminder app with real-time notifications | Flutter, Firebase |
-| **Smart Lawyer Diary** | Comprehensive case management system for legal professionals | React, Node.js, PostgreSQL |
-| **Smritir Baksho** | Personal memory archive and digital storytelling application | Flutter, Firebase |
-
----
-
-## 📚 Books {#books}
-
-### � Technical & Programming Guides
-
-- **Master Java** — Comprehensive Java programming masterclass
-- **Flutter** — Cross-platform mobile development with Flutter framework
-- **Bug Bounty: Beginner to Master** — Complete guide to ethical hacking & vulnerability hunting
-- **এপিআই হান্টিং জিরো থেকে হিরো** — API security from basics to advanced techniques
-
-### 💼 Career & Professional Development
-
-- **Client Hunting Mastery on LinkedIn** — Practical LinkedIn strategy for professionals
-- **Bridge the Gap** — Bridging knowledge gaps in career development
-- **Mastering Goals** — Goal setting and achievement strategies
-- **Unlock Your True Potential** — Personal and professional development guide
-
-### 📖 Literary & Poetry Works
-
-| Title | Format | Language | Category |
-|:---|:---|:---|:---|
-| Death Or You | Novel | English | Literature |
-| Where Truth Hides | Novel | English | Literature |
-| Rubaiyat-e Shahin | Poetry Collection | Bilingual | Poetry |
-| The Spirit | Poetry | Bangla | Poetry |
-| আত্মা | Poetry | Bangla | Poetry |
-| বিদ্রোহ-নামা | Poetry | Bangla | Poetry |
-| কাব্য কথা | Poetry Essay | Bangla | Literature |
-| অনুভূতির অনুরণন | Poetry | Bangla | Poetry |
-| আমার ধুঁসর স্মৃতিপটে তুমি'ই | Poetry | Bangla | Poetry |
-| আমি কবি | Poetry | Bangla | Poetry |
-| প্রকৃতি | Poetry | Bangla | Poetry |
-| আবারও দেখা | Poetry | Bangla | Poetry |
-
-### 💻 Technical & Programming Books
-
-| Title | Category | Language |
-|:---|:---|:---|
-| Master Java: Beginner to Expert | Programming | English |
-| Flutter Beginner to Master | Framework | English |
-| Bug Bounty: Beginner to Master | Cybersecurity | English |
-| এপিআই হান্টিং জিরো থেকে হিরো | API Security | Bangla |
-
-### 💼 Career & Professional Development
-
-| Title | Focus | Category |
-|:---|:---|:---|
-| Client Hunting Mastery on LinkedIn | Professional Growth | English |
-| Bridge the Gap | Career Development | English |
-| Mastering Goals | Personal Development | English |
-| How to Maintain a Happy Sexual Life | Relationships | English |
-| How to Long Time in Sex | Relationships | English |
-
-### 🕌 Islamic & Social Perspectives
-
-- **এখানে অনেক আলো** — Islamic perspectives on contemporary youth-related issues
-- **অগ্নিপত্র** — Social and philosophical reflections
-
----
-
-## 🔬 Research {#research}
-
-### Areas of Expertise
-
-- 🤖 **Artificial Intelligence** — NLP, Machine Learning, Large Language Models, AI-based Applications
-- 🔐 **Cybersecurity** — Threat Detection, Vulnerability Analysis, Penetration Testing
-- 🔍 **Digital Forensics** — Evidence Collection & Analysis, Digital Investigation
-- 💻 **Software Engineering** — Cross-platform development, secure systems design
-- 📡 **Digital Humanities** — Computational approaches to cultural studies
-- 💬 **Computational Linguistics** — NLP, language modeling, and analysis
-- 📊 **Data Analysis** — Statistical analysis, data-driven insights
-
-### Current Research
-
-**PhD Research Focus** (National University of Bangladesh):
-- Software Engineering methodologies for secure applications
-- Cybersecurity trends and novel defense mechanisms
-- Digital Humanities and computational approaches to cultural analysis
-
----
-
-## 💼 Professional Experience {#experience}
-
-### Chief Executive Officer (CE)
-**BloodBank আমাদের সমাজ** • January 2023 - Present
-- Strategic Leadership & Management 📊
-- Operational Excellence & Development Planning 📈
-
-### Chief Technology Officer (CTO)
-**আইটি আমাদের সমাজ ইনক.** • March 2020 - Present
-- Technical Architecture Design 🛠️
-- Software Development Oversight 💻
-- Strategic Team Leadership 🚀
-
-### Co-Founder
-**আমাদের সমাজ প্রকাশনী** • January 2021 - Present
-- Publication & Creative Concept Development 🎨
-- Editorial Direction & Content Strategy 🖋️
-
-### Executive Editor-in-Chief
-**আমাদের সমাজ পত্রিকা** • January 2018 - Present
-- Digital Content Strategy ✨
-- Team Management 🤝
-- Social & Digital Media Planning 📱
-
-### Senior Software Engineer (Freelance)
-**Nextwo Co.** • July 2015 - Present
-- Project Management & Client Communication 📞
-- Technical Solutions & Innovation 💡
-- Software Development Oversight 💻
-
-### Software Engineer
-**SoftInc** • January 2016 - December 2017
-- Technical Architecture Design 🔧
-- Software Development Supervision 💻
-- Code Review & Optimization ⚙️
-
----
-
-## 🎓 Education & Certifications {#certifications}
-
-### Academic Qualifications
-
-| Institution | Program | Duration |
-|:---|:---|:---|
-| National University of Bangladesh | PhD (In Progress) | 2020 - Present |
-| **HKUST** | **BSc Software Engineering** | **2010 - 2014** |
-| Duke University | Medical Neuroscience | 2016 - 2020 |
-| Michigan University | Anatomy: Musculoskeletal & Integumentary Systems | 2014 - 2018 |
-
-### Professional Certifications
-
-**Advanced Security & Forensics**
-- 🔒 IoT Security & Penetration Testing
-- 🔍 Computer & Digital Forensics PRO+
-- 🕵️ Digital Forensics: DFMC+ DFIR
-- 🔓 CEH v12 - Certified Ethical Hacker
-- 🛡️ Ethical Hacking & Penetration Testing (EHPT+)
-- 🎯 Red Teaming & Exploit Development
-- 🔬 Reverse Engineering & Malware Analysis (Linux, Ghidra, IDA Pro)
-- ⚠️ Malware Analysis In-depth Training
-
-**Cloud & DevOps**
-- ☁️ AWS Certified DevOps Engineer Professional
-
-**Specialized Training**
-- 👨‍💼 Executive Diploma of Chief Digital Officer
-- 🔝 CTO Executive Certification
-- 🎓 Meta - Full Stack Developer Program (2019)
-- 🔐 CDPSE - Certified Data Privacy Solutions Engineer
-- 🌐 OSINT - Power of Public Information PROF
-- 🛡️ Mastering Network Security - Defending Against Cyber Threats
-
----
-
-## 🏆 Awards & Recognition {#awards}
-
-### 2024
-🌟 **Global Top 100 Hackers** — HackerOne Platform Global Rankings
-
-### 2023
-📖 **Best Technology Book** — "Flutter Beginner to Master" - KPR Award
-
-### 2022
-🏅 **National IT Award** — Outstanding Contribution to Cybersecurity
-📝 **Best Author (KPR)** — Recognition in Modern Bengali Literature
-
-### 2021
-🔐 **Information Security Leadership Award (ISLA)** — Innovative Leadership in Information Security
-
-### 2020
-🎓 **SANS Institute Cybersecurity Award** — Special Contribution to Cybersecurity Advancement
-
-### 2019
-🔒 **SC Award** — Digital Security & Innovative Cyber Solutions
-
-### 2018
-🚀 **Cyber Innovator Award** — New Technology Ideas & Cybersecurity Solutions
-
-### 2017
-✨ **Creativity in Literature Award** — Pioneering Creative Writing
-
-### 2016
-🌱 **Emerging Technology Leader Award** — Recognition in IT & Cybersecurity
-
-### 2015
-💡 **Innovative IT Innovation Award** — Recognition in Technology Solutions
-
----
-
-## 📊 Stats & Achievements {#stats}
-
-<h3 align="center">A passionate full-stack developer, researcher, and author from Bangladesh 🇧🇩</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-sheikh-shahinur-rahman&label=Profile%20views&color=00BFA6&style=flat-square" alt="Profile Views"/>
-</p>
-
-### GitHub Trophy
+## ⭐ Flagship Project — Pixora Studio
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammad-sheikh-shahinur-rahman&theme=algolia&no-frame=true&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor">
+    <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/docs/brand/pixora-studio-logo.png" width="110" alt="Pixora Studio logo"/>
   </a>
+
+### [Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor)
+**Professional Photo Editing. Free for Everyone.**
+
+[![Site](https://img.shields.io/badge/%F0%9F%8C%90-Live_Website-2f7bf5?style=flat-square)](https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/)
+[![Docs](https://img.shields.io/badge/%F0%9F%93%96-Documentation-6fa4ff?style=flat-square)](https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/docs/)
+[![Download](https://img.shields.io/badge/%E2%AC%87-Download_Windows-22c55e?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases/latest)
+
 </div>
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+🎛️ **Familiar by design** — the menus, shortcuts and dockable panels professionals already know
+⚡ **Native & lightning fast** — pure Rust + GPU compositor on wgpu, tile-parallel, copy-on-write memory, **zero Electron**
+🗂️ **True PSD fidelity** — layered PSD/PSB in and out, blend modes, masks, smart objects
+🖼️ **Color-managed precision** — full ICC workflows, 8/16/32-bit, RGB·Gray·CMYK·Lab
+🔒 **100% offline & free** — no accounts, no cloud, no telemetry. Your machine, your work.
+🤖 **Automation-first** — every feature is a command: headless CLI, Photoshop-compatible Actions, MCP for agents
+
+    </td>
+    <td width="38%">
+      <a href="https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/">
+        <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/site/assets/demo.jpg" width="100%" alt="Pixora Studio screenshot"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub Analytics
+## 📚 My Books — on [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-sheikh-shahinur-rahman&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+> 🛒 Full author page: **<https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman>** (`আমাদের সমাজ প্রকাশনী`)
+> 📖 Count: **24 published books** · 14 poetry · 7 technology · 3 psychology & growth
+
+### 🔔 Poetry — বাংলা (10)
+
+| # | Title | Read / Buy |
+|---|-------|------------|
+| 1 | **এখানে অনেক আলো** | [rokomari.com/book/428693](https://www.rokomari.com/book/428693/এখানে-অনেক-আলো) |
+| 2 | **রুবাইয়াৎ-ই সারমাদ** | [rokomari.com/book/553727](https://www.rokomari.com/book/553727/রুবাইয়াৎ-ই-সারমাদ) |
+| 3 | **রুবায়েত-ই শাহিন** | [rokomari.com/book/510403](https://www.rokomari.com/book/510403/রুবায়েত-ই-শাহিন) |
+| 4 | **বিদ্রোহ-নামা** | [rokomari.com/book/509144](https://www.rokomari.com/book/509144/বিদ্রোহ-নামা) |
+| 5 | **আত্মা** | [rokomari.com/book/428695](https://www.rokomari.com/book/428695/আত্মা) |
+| 6 | **অগ্নিপত্র** | [rokomari.com/book/475740](https://www.rokomari.com/book/475740/অগ্নিপত্র) |
+| 7 | **সিজদায় লুকানো হাহাকার** | [rokomari.com/book/580229](https://www.rokomari.com/book/580229/সিজদায়-লুকানো-হাহাকার) |
+| 8 | **ইস্ক-এ-শাহিন** | [rokomari.com/book/579837](https://www.rokomari.com/book/579837/ইস্ক-এ-শাহিন) |
+| 9 | **দিওয়ান-এ-শাহিন** | [rokomari.com/book/579596](https://www.rokomari.com/book/579596/দিওয়ান-এ-শাহিন) |
+| 10 | **কাব্য-কথা** | [rokomari.com/book/519610](https://www.rokomari.com/book/519610/কাব্য-কথা) |
+
+### 🏆 Poetry — English (4)
+
+| # | Title | Read / Buy |
+|---|-------|------------|
+| 11 | **Death Or You** | [rokomari.com/book/427164](https://www.rokomari.com/book/427164/death-or-you) |
+| 12 | **The Spirit** | [rokomari.com/book/428694](https://www.rokomari.com/book/428694/the-spirit) |
+| 13 | **Where Truth Hides** | [rokomari.com/book/448296](https://www.rokomari.com/book/448296/where-truth-hides) |
+| 14 | **Rubaiyat-e Shahin** | [rokomari.com/book/510405](https://www.rokomari.com/book/510405/rubaiyat-e-shahin) |
+
+### 🛡️ Technology (7)
+
+| # | Title | Read / Buy |
+|---|-------|------------|
+| 15 | **Master Java** | [rokomari.com/book/430029](https://www.rokomari.com/book/430029/master-java) |
+| 16 | **Flutter** (4th reprint!) | [rokomari.com/book/433820](https://www.rokomari.com/book/433820/flutter) |
+| 17 | **Bridge the Gap** | [rokomari.com/book/427927](https://www.rokomari.com/book/427927/bridge-the-gap) |
+| 18 | **Client Hunting Mastery on LinkedIn** | [rokomari.com/book/446305](https://www.rokomari.com/book/446305/client-hunting-mastery-on-linkedin) |
+| 19 | **Bug Bounty: Beginner to Master** | [rokomari.com/book/427544](https://www.rokomari.com/book/427544/bug-bounty-beginner-to-master) |
+| 20 | **API হান্টিং: জিরো থেকে হিরো** | [rokomari.com/book/475739](https://www.rokomari.com/book/475739/এপিআই-হান্টিং-জিরো-থেকে-হিরো) |
+| 21 | **ডিজিটাল ফরেনসিক ও সাইবার অপরাধ** | [rokomari.com/book/566857](https://www.rokomari.com/book/566857/ডিজিটাল-ফরেনসিক-ও-সাইবার-অপরাধ) |
+
+### 💡 Psychology & Growth (3)
+
+| # | Title | Read / Buy |
+|---|-------|------------|
+| 22 | **বিজনেস সাইকোলজির সফলতার ১১৩ সূত্র** | [rokomari.com/book/579602](https://www.rokomari.com/book/579602/বিজনেস-সাইকোলজির-সফলতার-১১৩-সূত্র) |
+| 23 | **Mastering Goals** | [rokomari.com/book/427499](https://www.rokomari.com/book/427499/mastering-goals) |
+| 24 | **Unlock Your True Potential** | [rokomari.com/book/512183](https://www.rokomari.com/book/512183/unlock-your-true-potential) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Sheikh-Shahinur-Rahman&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Mohammad-Sheikh-Shahinur-Rahman&hide_border=true&background=0D111700&ring=2F7BF5&fire=F7C744" alt="GitHub streak"/>
+  <br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sheikh-Shahinur-Rahman&layout=compact&hide_border=true&bg_color=0D111700&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Sheikh-Shahinur-Rahman&bg_color=0D111700&color=6FA4FF&line=2F7BF5&point=F7C744&hide_border=true" alt="Activity graph"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-sheikh-shahinur-rahman&show_icons=true&locale=en&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Sheikh-Shahinur-Rahman&theme=onestar&no-frame=true&no-bg=true&column=7" alt="trophy"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-sheikh-shahinur-rahman&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</div>
+### 🐍 Contribution Snake
 
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/mohammad-sheikh-shahinur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/goodreads.svg" alt="Goodreads" height="30" width="40" /></a>
-  <a href="https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="ResearchGate" height="30" width="40" /></a>
-  <a href="https://scholar.google.com/citations?user=OW-KhOcAAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-scholar.svg" alt="Google Scholar" height="30" width="40" /></a>
-</p>
-
----
-
-## 📬 Contact & Connect {#contact}
-
-<div align="center">
-
-### Let's Collaborate!
-
-**Professional & Academic**
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)
-- 💻 [GitHub Profile](https://github.com/mohammad-sheikh-shahinur-rahman)
-- 🔬 [ResearchGate Profile](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman)
-- 📖 [Google Scholar](https://scholar.google.com/citations?user=OW-KhOcAAAAJ&hl=en)
-- 🌐 [Personal Website](https://shahinurrahman.com/)
-
-**Creative & Publication Works**
-- 📚 [Goodreads Profile](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
-- 📕 [Rokomari Books](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
-
----
-
-### 💬 Let's Connect
-
-I'm always open to exciting projects, collaborations, and discussions about:
-- Software Engineering & Architecture
-- Cybersecurity & Digital Forensics
-- AI & Machine Learning Applications
-- Literature & Creative Writing
-- Technology & Innovation
-
-**Feel free to reach out!** You can contact me through any of the platforms above.
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-Sheikh-Shahinur-Rahman/Mohammad-Sheikh-Shahinur-Rahman/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mohammad-Sheikh-Shahinur-Rahman/Mohammad-Sheikh-Shahinur-Rahman/output/snake.svg" width="100%" alt="contribution snake"/>
+</picture>
 
 ---
 
 <div align="center">
 
-### Core Values
-
-⭐ **Technology** · **Research** · **Creativity** · **Humanity** ⭐
-
----
-
-*Last Updated: April 2026*
+<a href="https://visitcount.itsvg.in/api?id=mohammad-sheikh-shahinur-rahman&label=Profile%20Views&color=2f7bf5&icon=fire&pretty=false">
+  <img src="https://visitcount.itsvg.in/api?id=mohammad-sheikh-shahinur-rahman&label=Profile%20Views&color=2f7bf5&icon=fire&pretty=false" alt="Profile views"/>
+</a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="footer"/>
 
-## ✨ Key Improvements
-
-- ✅ Fully responsive design for mobile, tablet, and desktop
-- ✅ Better visual hierarchy with consistent styling
-- ✅ Organized badge system with proper references
-- ✅ Improved table layouts for better readability
-- ✅ Mobile-friendly navigation
-- ✅ Professional color scheme consistency
-- ✅ Better section organization with anchor links
-- ✅ Enhanced skill categorization
-- ✅ Cleaner project presentation
-- ✅ Improved contact section layout
+<div align="center">
+  <sub>⭐ Star my repos if something here made you <b>wow</b> — it keeps the poetry and the pixels flowing. ✨</sub>
+</div>
