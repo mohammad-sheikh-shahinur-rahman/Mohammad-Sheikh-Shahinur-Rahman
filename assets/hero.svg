@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Mohammad Sheikh Shahinur Rahman — Software Engineer x Poet x Author of 36+ books">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f7bf5"/>
+      <stop offset="0.55" stop-color="#6fa4ff"/>
+      <stop offset="1" stop-color="#f7c744"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.35" stop-color="#8fb8ff"/>
+      <stop offset="0.65" stop-color="#6fa4ff"/>
+      <stop offset="1" stop-color="#f7c744"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#2f7bf5" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#2f7bf5" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#2f7bf5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6fa4ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6fa4ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6fa4ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="28" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V28" fill="none" stroke="#2f7bf5" stroke-opacity="0.14"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="#07090d"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- horizon glow -->
+  <ellipse cx="600" cy="292" rx="560" ry="52" fill="#2f7bf5" opacity="0.18" filter="url(#soft)"/>
+  <line x1="80" y1="292" x2="1120" y2="292" stroke="url(#neon)" stroke-width="2" opacity="0.85"/>
+
+  <!-- vertical circuit lines -->
+  <g stroke="#2f7bf5" stroke-opacity="0.30">
+    <line x1="120" y1="60" x2="120" y2="180"/>
+    <line x1="1080" y1="70" x2="1080" y2="190"/>
+  </g>
+  <circle cx="120" cy="60" r="4" fill="#6fa4ff">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="70" r="4" fill="#f7c744">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- scanning bar -->
+  <rect x="140" y="248" width="920" height="2.5" fill="url(#scan)">
+    <animate attributeName="x" values="140;400;140" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- orbit rings -->
+  <g opacity="0.5">
+    <circle cx="985" cy="118" r="56" fill="none" stroke="#2f7bf5" stroke-opacity="0.35" stroke-dasharray="4 7">
+      <animateTransform attributeName="transform" type="rotate" from="0 985 118" to="360 985 118" dur="26s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="985" cy="118" r="38" fill="none" stroke="#f7c744" stroke-opacity="0.35" stroke-dasharray="3 6">
+      <animateTransform attributeName="transform" type="rotate" from="360 985 118" to="0 985 118" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <text x="985" y="126" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30">🦀</text>
+  </g>
+
+  <text x="70" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="6" fill="#6fa4ff" opacity="0.9">◤ SYSTEM ONLINE</text>
+
+  <text x="70" y="180" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="52" letter-spacing="1" fill="url(#nameGrad)">MOHAMMAD SHEIKH SHAHINUR RAHMAN</text>
+
+  <text x="72" y="222" font-family="Consolas, monospace" font-size="20" letter-spacing="3" fill="#98a2b3">SOFTWARE ENGINEER × POET × AUTHOR OF<tspan fill="#f7c744" font-weight="700"> 36+ BOOKS</tspan></text>
+
+  <!-- animated status pills -->
+  <g font-family="Consolas, monospace" font-size="15">
+    <rect x="70" y="248" width="188" height="30" rx="15" fill="#12161e" stroke="#2f7bf5" stroke-opacity="0.5"/>
+    <text x="86" y="268" fill="#6fa4ff">● building: pixora</text>
+    <rect x="270" y="248" width="212" height="30" rx="15" fill="#12161e" stroke="#2f7bf5" stroke-opacity="0.5"/>
+    <text x="286" y="268" fill="#6fa4ff">λ stack: rust · wgpu</text>
+    <rect x="494" y="248" width="196" height="30" rx="15" fill="#12161e" stroke="#f7c744" stroke-opacity="0.55"/>
+    <text x="510" y="268" fill="#f7c744">✎ writing: poetry</text>
+  </g>
+
+  <text x="1130" y="60" text-anchor="end" font-family="Consolas, monospace" font-size="14" fill="#5d6675">// est. Kishoreganj, BD</text>
+</svg>

@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Sheikh%20Shahinur%20Rahman&fontSize=38&fontAlignY=32&desc=Software%20Engineer%20%C3%97%20Poet%20%C3%97%20%F0%9F%93%9A%2024%20Books&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
+<img src="assets/hero.svg" width="100%" alt="Mohammad Sheikh Shahinur Rahman — Software Engineer × Poet × Author of 36+ books"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=6FA4FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%E2%9A%A1+Crafting+Pixora+Studio+%E2%80%94+a+professional+photo+editor+in+pure+Rust;%F0%9F%93%9A+Published+poet+%E2%80%94+24+books+in+poetry%2C+code+%26+security;%F0%9F%96%A5%EF%B8%8F+Software+engineering+%C3%97+Cybersecurity+%C3%97+Digital+forensics;%F0%9F%8C%8F+Free+%2B+open+source+%2B+offline" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=6FA4FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%E2%9A%A1+Crafting+Pixora+Studio+%E2%80%94+a+professional+photo+editor+in+pure+Rust;%F0%9F%93%9A+Published+poet+%E2%80%94+36%2B+books+across+poetry%2C+code+%26+security;%F0%9F%96%A5%EF%B8%8F+Software+%C3%97+Cybersecurity+%C3%97+Digital+forensics;%F0%9F%8C%8F+Free+%2B+open+source+%2B+offline" alt="typing"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Bangladesh who lives in two worlds at once: **code** and **poetry**. 🔥
 
 - 🦀 Building **[Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor)** — a native, GPU-accelerated professional photo editor written *entirely in Rust*: true PSD fidelity, no subscriptions, no webviews, no telemetry
-- 📚 **24 published books** — poetry 🔔, cybersecurity & pentesting 🛡️, and software engineering 💻 — published by *আমাদের সমাজ প্রকাশনী*
+- 📚 **36+ published books** — poetry 🔔, cybersecurity & pentesting 🛡️, and software engineering 💻 — published by *আমাদের সমাজ প্রকাশনী* (24 of them featured on [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman))
 - 🎓 BSc in Software Engineering — **HKUST**
 - 🛡️ Digital forensics & bug-bounty researcher — evidence-driven by training, imagination-driven by craft
 - 🎂 May 15 · 📍 Kishoreganj, Bangladesh
@@ -37,26 +37,27 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 
     </td>
     <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/Mohammad-Sheikh-Shahinur-Rahman/Mohammad-Sheikh-Shahinur-Rahman/main/shahinur.jpg" width="260" alt="Mohammad Sheikh Shahinur Rahman" style="border-radius:50%"/>
+      <img src="shahinur.jpg" width="260" alt="Mohammad Sheikh Shahinur Rahman" style="border-radius:50%"/>
       <br><sub><b>Software Engineer × Poet</b></sub>
     </td>
   </tr>
 </table>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,dart,flutter,java,python,js,html,css,git,linux,githubactions&perline=13" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,dart,flutter,java,python,js,ts,cs,php,html,css,git,linux,githubactions&perline=16" alt="tech stack"/>
 
 **⚡ Rust is my main weapon** — systems programming, GPU pipelines (wgpu), file-format parsing (PSD/ICC) and a zero-crash security model.
+
 </div>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
-## ⭐ Flagship Project — Pixora Studio
+## ⭐ Flagship — Pixora Studio
 
 <div align="center">
   <a href="https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor">
@@ -92,12 +93,41 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
   </tr>
 </table>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
-## 📚 My Books — on [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+## 🧩 More Projects
 
-> 🛒 Full author page: **<https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman>** (`আমাদের সমাজ প্রকাশনী`)
-> 📖 Count: **24 published books** · 14 poetry · 7 technology · 3 psychology & growth
+<div align="center">
+
+**🎬 [Recova Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Recova-Studio)** · `TypeScript`
+Modern, offline-first screen recorder & AI video editor with smooth cursor effects — plus its own [wiki & portals](https://github.com/mohammad-sheikh-shahinur-rahman/RECOVA-STUDIO-WIKI).
+
+**⌨️ [BanglaType](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType)** (+ [Android](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType-Android), Kotlin · C#/VB)
+A powerful, lightweight, professional-grade **Bangla typing software** — desktop to Android.
+
+**🌐 [BanglaHost](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaHost)** · `C#`
+Modern Windows local development environment for PHP & Laravel — local server, one click.
+
+**🔧 [WinForge](https://github.com/mohammad-sheikh-shahinur-rahman/WinForge)** · `C# / WPF`
+A modern Windows system toolkit built on .NET 10.
+
+**🐦 [Parot](https://github.com/mohammad-sheikh-shahinur-rahman/Parot-The-Ultimate-Lifelike-Desktop-Bird-Companion-for-Windows)** · `C#`
+A lifelike desktop bird companion for Windows — fun meets engineering.
+
+**📄 [Chukthipotro](https://github.com/mohammad-sheikh-shahinur-rahman/Chukthipotro)** · `TypeScript`
+Bangladesh-focused Bengali/English **contract builder** with stamp-paper inspired visuals.
+
+**✉️ [SMail](https://github.com/mohammad-sheikh-shahinur-rahman/SMail)** · `Dart` · **🧾 [Ledgerly](https://github.com/mohammad-sheikh-shahinur-rahman/ledgerly-invoice-manager)** · `TypeScript`
+A clean email client, and a bilingual invoice & cash-memo platform.
+
+</div>
+
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
+
+## 📚 My Books — 36+ published · [Author page on Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+
+> 🛒 Full list on Rokomari: **<https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman>** (`আমাদের সমাজ প্রকাশনী`)
+> **36+ published books** — below are **24 featured titles** from the Rokomari catalogue: 14 poetry · 7 technology · 3 psychology & growth
 
 ### 🔔 Poetry — বাংলা (10)
 
@@ -143,7 +173,7 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 | 23 | **Mastering Goals** | [rokomari.com/book/427499](https://www.rokomari.com/book/427499/mastering-goals) |
 | 24 | **Unlock Your True Potential** | [rokomari.com/book/512183](https://www.rokomari.com/book/512183/unlock-your-true-potential) |
 
----
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
 ## 📊 GitHub Stats
 
@@ -170,9 +200,7 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 
 <div align="center">
 
-<a href="https://visitcount.itsvg.in/api?id=mohammad-sheikh-shahinur-rahman&label=Profile%20Views&color=2f7bf5&icon=fire&pretty=false">
-  <img src="https://visitcount.itsvg.in/api?id=mohammad-sheikh-shahinur-rahman&label=Profile%20Views&color=2f7bf5&icon=fire&pretty=false" alt="Profile views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Mohammad-Sheikh-Shahinur-Rahman&label=Profile+Views&color=2f7bf5&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
