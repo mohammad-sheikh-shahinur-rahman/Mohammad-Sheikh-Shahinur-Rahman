@@ -160,6 +160,14 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixora Studio 0.15.1 — Professional Photo Editor](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases/tag/v0.15.1)
+- [Still using XAMPP, WAMP, or Laragon?](https://medium.com/@shahinalam3546/still-using-xampp-wamp-or-laragon-d65bc07c460f?source=rss-1ba061d5d6c8------2)
+- [Meet BanglaHost — Your Modern Local Web Development Ecosystem for Windows](https://medium.com/@shahinalam3546/meet-banglahost-your-modern-local-web-development-ecosystem-for-windows-c9f8f9032b7f?source=rss-1ba061d5d6c8------2)
+- [“ — 403](https://medium.com/@shahinalam3546/403-633aeb8993e7?source=rss-1ba061d5d6c8------2)
+- [BanglaHost: A Modern Alternative to Traditional Local Development Environments](https://medium.com/@shahinalam3546/banglahost-a-modern-alternative-to-traditional-local-development-environments-12c4a8976be1?source=rss-1ba061d5d6c8------2)
+- [BanglaHost: A Modern Local Web Server for Windows Developers](https://medium.com/@shahinalam3546/banglahost-a-modern-local-web-server-for-windows-developers-ca18d1c6848e?source=rss-1ba061d5d6c8------2)
+- [BanglaHost: Windows Developers-এর জন্য একটি Modern Local Development Environment](https://medium.com/@shahinalam3546/banglahost-windows-developers-%E0%A6%8F%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-modern-local-development-environment-8a6bd34ca093?source=rss-1ba061d5d6c8------2)
+- [⚠️ জাতীয় বিশ্ববিদ্যালয়ের নামে ভুয়া ওয়েবসাইট! লাখো শিক্ষার্থী সাইবার ফাঁদে](https://medium.com/@shahinalam3546/%EF%B8%8F-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AD%E0%A7%81%E0%A7%9F%E0%A6%BE-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%8B-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A7%87-3a102a451474?source=rss-1ba061d5d6c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
