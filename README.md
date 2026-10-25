@@ -33,7 +33,6 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 - 🎓 BSc in Software Engineering — **HKUST**
 - 🛡️ Digital forensics & bug-bounty researcher — evidence-driven by training, imagination-driven by craft
 - 🎂 May 15 · 📍 Kishoreganj, Bangladesh
-- ✍️ *"I write poems so machines remember what it means to feel — and write software so art reaches everyone."*
 
     </td>
     <td width="45%" align="center">
@@ -42,6 +41,14 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
     </td>
   </tr>
 </table>
+
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
+
+## ✒️ Pen & Pixels
+
+<div align="center">
+  <img src="assets/pen-pixels.svg" width="100%" alt="Quote: I write poems so machines remember what it means to feel — and write software so art reaches everyone."/>
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
@@ -57,16 +64,13 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
----
-<p align="center">
-  <a href="https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor">
-    <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/docs/brand/pixora-studio-logo.png" width="110" alt="Pixora Studio logo"/>
-  </a>
-</p>
-
 ## 🌟 [Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor) — Flagship
 
 <div align="center">
+  <a href="https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor">
+    <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/main/docs/brand/pixora-studio-logo.png" width="110" alt="Pixora Studio logo"/>
+  </a>
+
 <b>Professional Photo Editing. Free for Everyone.</b><br/>
 <sub>A native, GPU-accelerated photo editor written <b>entirely in Rust</b> — zero Electron, zero webviews.</sub><br/><br/>
 
@@ -112,54 +116,51 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
-## 📚 My Books — 36+ published · [Author page on Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+## 📚 The Bookshelf — 36+ published
 
-> 🛒 Full list on Rokomari: **<https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman>** (`আমাদের সমাজ প্রকাশনী`)
-> **36+ published books** — below are **24 featured titles** from the Rokomari catalogue: 14 poetry · 7 technology · 3 psychology & growth
+<div align="center">
 
-### 🔔 Poetry — বাংলা (10)
+> ✨ **click any cover to read or buy on Rokomari** · সব বই: **[আমাদের সমাজ প্রকাশনী](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)**
 
-| # | Title | Read / Buy |
-|---|-------|------------|
-| 1 | **এখানে অনেক আলো** | [rokomari.com/book/428693](https://www.rokomari.com/book/428693/এখানে-অনেক-আলো) |
-| 2 | **রুবাইয়াৎ-ই সারমাদ** | [rokomari.com/book/553727](https://www.rokomari.com/book/553727/রুবাইয়াৎ-ই-সারমাদ) |
-| 3 | **রুবায়েত-ই শাহিন** | [rokomari.com/book/510403](https://www.rokomari.com/book/510403/রুবায়েত-ই-শাহিন) |
-| 4 | **বিদ্রোহ-নামা** | [rokomari.com/book/509144](https://www.rokomari.com/book/509144/বিদ্রোহ-নামা) |
-| 5 | **আত্মা** | [rokomari.com/book/428695](https://www.rokomari.com/book/428695/আত্মা) |
-| 6 | **অগ্নিপত্র** | [rokomari.com/book/475740](https://www.rokomari.com/book/475740/অগ্নিপত্র) |
-| 7 | **সিজদায় লুকানো হাহাকার** | [rokomari.com/book/580229](https://www.rokomari.com/book/580229/সিজদায়-লুকানো-হাহাকার) |
-| 8 | **ইস্ক-এ-শাহিন** | [rokomari.com/book/579837](https://www.rokomari.com/book/579837/ইস্ক-এ-শাহিন) |
-| 9 | **দিওয়ান-এ-শাহিন** | [rokomari.com/book/579596](https://www.rokomari.com/book/579596/দিওয়ান-এ-শাহিন) |
-| 10 | **কাব্য-কথা** | [rokomari.com/book/519610](https://www.rokomari.com/book/519610/কাব্য-কথা) |
+### 🔔 Poetry — বাংলা
 
-### 🏆 Poetry — English (4)
+| | | | |
+|--|--|--|--|
+| <a href="https://www.rokomari.com/book/428693/এখানে-অনেক-আলো"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Ekhane_aneke_Alo-Mohammad_Sheikh_Shahinur_Rahman-42f14-428693.png" width="110"/><br/><sub><b>এখানে অনেক আলো</b></sub></a> | <a href="https://www.rokomari.com/book/553727/রুবাইয়াৎ-ই-সারমাদ"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Rubayat_E_Sarmad-Mohammad_Sheikh_Shahinur_Rahman-22b70-553727.png" width="110"/><br/><sub><b>রুবাইয়াৎ-ই সারমাদ</b></sub></a> | <a href="https://www.rokomari.com/book/510403/রুবায়েত-ই-শাহিন"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Rubaiyat_e_Shahin-Mohammad_Sheikh_Shahinur_Rahman-e633d-510403.jpg" width="110"/><br/><sub><b>রুবায়েত-ই শাহিন</b></sub></a> | <a href="https://www.rokomari.com/book/509144/বিদ্রোহ-নামা"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Bidroho_Nama-Mohammad_Sheikh_Shahinur_Rahman-a9d99-509144.jpg" width="110"/><br/><sub><b>বিদ্রোহ-নামা</b></sub></a> |
+| <a href="https://www.rokomari.com/book/428695/আত্মা"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Atta-Mohammad_Sheikh_Shahinur_Rahman-b373b-428695.jpg" width="110"/><br/><sub><b>আত্মা</b></sub></a> | <a href="https://www.rokomari.com/book/475740/অগ্নিপত্র"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Agnipotro-Mohammad_Sheikh_Shahinur_Rahman-7e94d-475740.jpg" width="110"/><br/><sub><b>অগ্নিপত্র</b></sub></a> | <a href="https://www.rokomari.com/book/580229/সিজদায়-লুকানো-হাহাকার"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Sijday_Lukano_Hahakar-Mohammad_Sheikh_Shahinur_Rahman-fbcad-580229.png" width="110"/><br/><sub><b>সিজদায় লুকানো হাহাকার</b></sub></a> | <a href="https://www.rokomari.com/book/579837/ইস্ক-এ-শাহিন"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Ishq_e_Shahin-Mohammad_Sheikh_Shahinur_Rahman-1bc1e-579837.png" width="110"/><br/><sub><b>ইস্ক-এ-শাহিন</b></sub></a> |
+| <a href="https://www.rokomari.com/book/579596/দিওয়ান-এ-শাহিন"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Diwan_e_Shahin-Mohammad_Sheikh_Shahinur_Rahman-19ace-579596.png" width="110"/><br/><sub><b>দিওয়ান-এ-শাহিন</b></sub></a> | <a href="https://www.rokomari.com/book/519610/কাব্য-কথা"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Kabya_Kotha-Mohammad_Sheikh_Shahinur_Rahman-49cdf-519610.png" width="110"/><br/><sub><b>কাব্য-কথা</b></sub></a> | | |
 
-| # | Title | Read / Buy |
-|---|-------|------------|
-| 11 | **Death Or You** | [rokomari.com/book/427164](https://www.rokomari.com/book/427164/death-or-you) |
-| 12 | **The Spirit** | [rokomari.com/book/428694](https://www.rokomari.com/book/428694/the-spirit) |
-| 13 | **Where Truth Hides** | [rokomari.com/book/448296](https://www.rokomari.com/book/448296/where-truth-hides) |
-| 14 | **Rubaiyat-e Shahin** | [rokomari.com/book/510405](https://www.rokomari.com/book/510405/rubaiyat-e-shahin) |
+### 🏆 Poetry — English
 
-### 🛡️ Technology (7)
+| | | | |
+|--|--|--|--|
+| <a href="https://www.rokomari.com/book/427164/death-or-you"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Death_Or_You-Mohammad_Sheikh_Shahinur_Rahman-4ed7f-427164.png" width="110"/><br/><sub><b>Death Or You</b></sub></a> | <a href="https://www.rokomari.com/book/428694/the-spirit"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/The_Spirit-Mohammad_Sheikh_Shahinur_Rahman-9a05b-428694.png" width="110"/><br/><sub><b>The Spirit</b></sub></a> | <a href="https://www.rokomari.com/book/448296/where-truth-hides"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Where_Truth_Hides-Mohammad_Sheikh_Shahinur_Rahman-270ec-448296.jpg" width="110"/><br/><sub><b>Where Truth Hides</b></sub></a> | <a href="https://www.rokomari.com/book/510405/rubaiyat-e-shahin"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Rubaiyat_e_Shahin-Mohammad_Sheikh_Shahinur_Rahman-29e4f-510405.png" width="110"/><br/><sub><b>Rubaiyat-e Shahin</b></sub></a> |
 
-| # | Title | Read / Buy |
-|---|-------|------------|
-| 15 | **Master Java** | [rokomari.com/book/430029](https://www.rokomari.com/book/430029/master-java) |
-| 16 | **Flutter** (4th reprint!) | [rokomari.com/book/433820](https://www.rokomari.com/book/433820/flutter) |
-| 17 | **Bridge the Gap** | [rokomari.com/book/427927](https://www.rokomari.com/book/427927/bridge-the-gap) |
-| 18 | **Client Hunting Mastery on LinkedIn** | [rokomari.com/book/446305](https://www.rokomari.com/book/446305/client-hunting-mastery-on-linkedin) |
-| 19 | **Bug Bounty: Beginner to Master** | [rokomari.com/book/427544](https://www.rokomari.com/book/427544/bug-bounty-beginner-to-master) |
-| 20 | **API হান্টিং: জিরো থেকে হিরো** | [rokomari.com/book/475739](https://www.rokomari.com/book/475739/এপিআই-হান্টিং-জিরো-থেকে-হিরো) |
-| 21 | **ডিজিটাল ফরেনসিক ও সাইবার অপরাধ** | [rokomari.com/book/566857](https://www.rokomari.com/book/566857/ডিজিটাল-ফরেনসিক-ও-সাইবার-অপরাধ) |
+### 🛡️ Technology
 
-### 💡 Psychology & Growth (3)
+| | | | |
+|--|--|--|--|
+| <a href="https://www.rokomari.com/book/430029/master-java"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Master_Java-Mohammad_Sheikh_Shahinur_Rahman-57381-430029.jpg" width="110"/><br/><sub><b>Master Java</b></sub></a> | <a href="https://www.rokomari.com/book/433820/flutter"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Flutter-Mohammad_Sheikh_Shahinur_Rahman-74a8d-433820.png" width="110"/><br/><sub><b>Flutter</b> (4th reprint!)</sub></a> | <a href="https://www.rokomari.com/book/427927/bridge-the-gap"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Bridge_the_Gap-Mohammad_Sheikh_Shahinur_Rahman-ad785-427927.png" width="110"/><br/><sub><b>Bridge the Gap</b></sub></a> | <a href="https://www.rokomari.com/book/446305/client-hunting-mastery-on-linkedin"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Client_Hunting_Mastery_on_LinkedIn_-Mohammad_Sheikh_Shahinur_Rahman-889d5-446305.png" width="110"/><br/><sub><b>Client Hunting Mastery on LinkedIn</b></sub></a> |
+| <a href="https://www.rokomari.com/book/427544/bug-bounty-beginner-to-master"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Bug_Bounty_Beginner_To_Master-Mohammad_Sheikh_Shahinur_Rahman-36b84-427544.jpg" width="110"/><br/><sub><b>Bug Bounty: Beginner to Master</b></sub></a> | <a href="https://www.rokomari.com/book/475739/এপিআই-হান্টিং-জিরো-থেকে-হিরো"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/API_Hunting_Zero_Zero_Hero-Mohammad_Sheikh_Shahinur_Rahman-93d80-475739.jpg" width="110"/><br/><sub><b>API হান্টিং: জিরো থেকে হিরো</b></sub></a> | <a href="https://www.rokomari.com/book/566857/ডিজিটাল-ফরেনসিক-ও-সাইবার-অপরাধ"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/A_HANDBOOK_OF_DIGITAL_FORENSICS__CYBERCR-Mohammad_Sheikh_Shahinur_Rahman-35c7b-566857.png" width="110"/><br/><sub><b>ডিজিটাল ফরেনসিক ও সাইবার অপরাধ</b></sub></a> | |
 
-| # | Title | Read / Buy |
-|---|-------|------------|
-| 22 | **বিজনেস সাইকোলজির সফলতার ১১৩ সূত্র** | [rokomari.com/book/579602](https://www.rokomari.com/book/579602/বিজনেস-সাইকোলজির-সফলতার-১১৩-সূত্র) |
-| 23 | **Mastering Goals** | [rokomari.com/book/427499](https://www.rokomari.com/book/427499/mastering-goals) |
-| 24 | **Unlock Your True Potential** | [rokomari.com/book/512183](https://www.rokomari.com/book/512183/unlock-your-true-potential) |
+### 💡 Psychology & Growth
+
+| | | | |
+|--|--|--|--|
+| <a href="https://www.rokomari.com/book/579602/বিজনেস-সাইকোলজির-সফলতার-১১৩-সূত্র"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/113_Rules_of_Business_Psychology-Mohammad_Sheikh_Shahinur_Rahman-29190-579602.png" width="110"/><br/><sub><b>বিজনেস সাইকোলজির সফলতার ১১৩ সূত্র</b></sub></a> | <a href="https://www.rokomari.com/book/427499/mastering-goals"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Mastering_Goals-Mohammad_Sheikh_Shahinur_Rahman-673dd-427499.jpg" width="110"/><br/><sub><b>Mastering Goals</b></sub></a> | <a href="https://www.rokomari.com/book/512183/unlock-your-true-potential"><img src="https://rokbucket.rokomari.io/ProductNew20190903/130X186/Unlock_Your_True_Potential-Mohammad_Sheikh_Shahinur_Rahman-980ec-512183.jpg" width="110"/><br/><sub><b>Unlock Your True Potential</b></sub></a> | |
+
+</div>
+
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
+
+## 📰 Latest Writing & Releases
+
+<div align="center">
+<sub>✨ স্বয়ংক্রিয়-আপডেট — আমার নতুন ব্লগ পোস্ট এবং Pixora Studio-র রিলিজ এখানেই ভেসে আসে</sub>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
@@ -171,6 +172,13 @@ Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Banglad
   <br>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sheikh-Shahinur-Rahman&layout=compact&hide_border=true&bg_color=0D111700&langs_count=8" alt="Top languages"/>
 </div>
+
+### 🏔️ 3D Contribution Landscape
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
+</picture>
 
 ### 🐍 Contribution Snake
 
