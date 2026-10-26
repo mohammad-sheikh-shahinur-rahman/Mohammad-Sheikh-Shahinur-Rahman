@@ -34,22 +34,34 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
+### 👋 Hi, I'm **Mohammad Sheikh Shahinur Rahman**
+
+*a software engineer from Bangladesh who lives in two worlds at once: **code** and **poetry**.* 🔥
+
+</div>
+
+<br/>
+
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="62%" valign="top">
 
-Hi! I'm **Mohammad Sheikh Shahinur Rahman** — a software engineer from Bangladesh who lives in two worlds at once: **code** and **poetry**. 🔥
-
-- 🦀 Building **[Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor)** — a native, GPU-accelerated professional photo editor written *entirely in Rust*: true PSD fidelity, no subscriptions, no webviews, no telemetry
-- 📚 **36+ published books** — poetry 🔔, cybersecurity & pentesting 🛡️, and software engineering 💻 — published by *আমাদের সমাজ প্রকাশনী* (24 of them featured on [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman))
-- 🎓 BSc in Software Engineering — **HKUST**
-- 🛡️ Digital forensics & bug-bounty researcher — evidence-driven by training, imagination-driven by craft
-- 🎂 May 15 · 📍 Kishoreganj, Bangladesh
+| | |
+|--|--|
+| 🦀 | Building **[Pixora Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor)** — a native, GPU-accelerated professional photo editor written *entirely in Rust*: true PSD fidelity, no subscriptions, no webviews, no telemetry |
+| 📚 | **36+ published books** — poetry 🔔, cybersecurity & pentesting 🛡️, software engineering 💻 — published by *আমাদের সমাজ প্রকাশনী* (24 of them featured on [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)) |
+| 🎓 | BSc in Software Engineering — **[HKUST](https://www.hkust.edu.hk/)** |
+| 🛡️ | Digital forensics & bug-bounty researcher — evidence-driven by training, imagination-driven by craft |
+| 🌍 | Free · open source · offline-first — technology that belongs to everyone |
+| 🎂 | May 15 · 📍 Kishoreganj, Bangladesh |
 
     </td>
-    <td width="45%" align="center">
-      <img src="shahinur.jpg" width="260" alt="Mohammad Sheikh Shahinur Rahman" style="border-radius:50%"/>
-      <br><sub><b>Software Engineer × Poet</b></sub>
+    <td width="38%" align="center" valign="top">
+      <img src="assets/avatar-glow.png" width="250" alt="Mohammad Sheikh Shahinur Rahman"/>
+      <br/><sub><b>Software Engineer × Poet</b></sub>
+      <br/><sub>Code · Poetry · Books · Security</sub>
     </td>
   </tr>
 </table>
