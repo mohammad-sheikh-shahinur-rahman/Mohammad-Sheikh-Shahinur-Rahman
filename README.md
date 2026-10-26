@@ -57,12 +57,12 @@
 | 🌍 | Free · open source · offline-first — technology that belongs to everyone |
 | 🎂 | May 15 · 📍 Kishoreganj, Bangladesh |
 
-    </td>
-    <td width="38%" align="center" valign="top">
-      <img src="assets/avatar-glow.png" width="250" alt="Mohammad Sheikh Shahinur Rahman"/>
-      <br/><sub><b>Software Engineer × Poet</b></sub>
-      <br/><sub>Code · Poetry · Books · Security</sub>
-    </td>
+</td>
+<td width="38%" align="center" valign="top">
+  <img src="assets/avatar-glow.png" width="250" alt="Mohammad Sheikh Shahinur Rahman"/>
+  <br/><sub><b>Software Engineer × Poet</b></sub>
+  <br/><sub>Code · Poetry · Books · Security</sub>
+</td>
   </tr>
 </table>
 
