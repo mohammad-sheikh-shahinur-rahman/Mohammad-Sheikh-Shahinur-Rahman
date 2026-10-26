@@ -35,18 +35,13 @@
 ## 🚀 About Me
 
 <div align="center">
-
-### 👋 Hi, I'm **Mohammad Sheikh Shahinur Rahman**
-
-*a software engineer from Bangladesh who lives in two worlds at once: **code** and **poetry**.* 🔥
-
+  <a href="https://shahinur.amadersomaj.com/">
+    <img src="assets/avatar-glow.png" width="220" alt="Mohammad Sheikh Shahinur Rahman"/>
+  </a>
+  <br/><sub><b>Software Engineer × Poet</b> · Code · Poetry · Books · Security</sub>
 </div>
 
 <br/>
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
 
 | | |
 |--|--|
@@ -56,15 +51,6 @@
 | 🛡️ | Digital forensics & bug-bounty researcher — evidence-driven by training, imagination-driven by craft |
 | 🌍 | Free · open source · offline-first — technology that belongs to everyone |
 | 🎂 | May 15 · 📍 Kishoreganj, Bangladesh |
-
-</td>
-<td width="38%" align="center" valign="top">
-  <img src="assets/avatar-glow.png" width="250" alt="Mohammad Sheikh Shahinur Rahman"/>
-  <br/><sub><b>Software Engineer × Poet</b></sub>
-  <br/><sub>Code · Poetry · Books · Security</sub>
-</td>
-  </tr>
-</table>
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
