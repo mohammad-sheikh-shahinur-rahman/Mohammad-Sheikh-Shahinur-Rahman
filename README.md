@@ -15,6 +15,18 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00D084?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1A1?style=for-the-badge&logo=goodreads&logoColor=black)](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
 [![Rokomari Author](https://img.shields.io/badge/%F0%9F%93%9A-Rokomari_Author-E7262C?style=for-the-badge)](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shahinalam3546)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Shahinurrahman0.0Official)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahinalam3546)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5025-6138)
+
+<br/>
+
+### 🏆 Achievements
+
+<a href="https://github.com/Mohammad-Sheikh-Shahinur-Rahman?tab=achievements"><img src="assets/achievements/pull-shark.png" height="52" alt="Pull Shark"/></a>
+<a href="https://github.com/Mohammad-Sheikh-Shahinur-Rahman?tab=achievements"><img src="assets/achievements/quickdraw.png" height="52" alt="Quickdraw"/></a>
+<a href="https://github.com/Mohammad-Sheikh-Shahinur-Rahman?tab=achievements"><img src="assets/achievements/yolo.png" height="52" alt="YOLO"/></a>
 
 </div>
 
