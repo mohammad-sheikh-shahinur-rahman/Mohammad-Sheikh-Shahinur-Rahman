@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,dart,flutter,java,python,js,ts,cs,php,html,css,git,linux,githubactions&perline=16" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=rust,kotlin,androidstudio,cpp,c,dart,flutter,java,python,js,ts,cs,php,html,css,git,linux,githubactions&perline=18" alt="tech stack"/>
 
 **⚡ Rust is my main weapon** — systems programming, GPU pipelines (wgpu), file-format parsing (PSD/ICC) and a zero-crash security model.
 
@@ -107,12 +107,37 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
+## 🌍 [Elyora — Learn Every Language](https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language) — Flagship Android
+
+<div align="center">
+  <a href="https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language">
+    <img src="https://raw.githubusercontent.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/main/public/assets/aistudio/elyora-app-icon-512-with-tagline_946d9b04.png" width="110" alt="Elyora logo"/>
+  </a>
+
+<b>ভাষা শিখুন, বিশ্বকে জানুন · 100% Offline, Ad-Free Language Learning Super-App</b><br/>
+<sub>Built with <b>Kotlin &amp; Jetpack Compose (Material 3)</b> — 12×12 language tracks, 243k+ FTS4 dictionary &amp; on-device Qwen AI Voice Tutor.</sub><br/><br/>
+
+[![Download APK](https://img.shields.io/badge/%E2%AC%87-Download_APK_v2.0.0-3DDC84?style=flat-square&logo=android&logoColor=black)](https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/releases/latest)
+[![Repo](https://img.shields.io/badge/%E2%AD%90-Star_on_GitHub-f7c744?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/stargazers)
+
+</div>
+
+- 🤖 **On-Device Qwen2.5 & Qwen3 (`.gguf`) AI Tutor** — Manus-style hands-free voice chat, background `WorkManager` + `ForegroundService` model downloads, and on-device benchmarking
+- 📖 **243k+ Offline Dictionary & 4,400+ Verbs** — Instant Room + SQLite FTS4 search across 25,656+ English & 217,686+ Japanese entries
+- 🎓 **Oxford 5000 · JLPT (N5–N1) · CEFR (A1–C2) · Genki 1 · JFZ** — Unified SM-2 spaced repetition, 210+ Grammar Academy, and all 13 English Tenses
+- 🌐 **12 × 12 Anytime Language Switcher** — English, বাংলা, Hindi, Japanese, Spanish, Arabic, French, German, Tamil, Telugu, Urdu & Kannada
+
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
+
 ## 🧩 More Projects
 
 <div align="center">
 
 | | |
 |--|--|
+| 🎞️ **[FrameCut Studio](https://github.com/mohammad-sheikh-shahinur-rahman/FrameCut-Studio-Windows)** · `Rust / D3D12 / WGPU` | Enterprise-grade native Windows NLE video editor — 100% on-device, 3-way color wheels & curves, audio DSP, zero cloud uploads |
+| 🖱️ **[MouseSense](https://github.com/mohammad-sheikh-shahinur-rahman/MouseSense)** · `Kotlin` | High-performance wireless PC mouse, keyboard & trackpad with Wi-Fi auto-detection and Bluetooth HID |
+| 🫧 **[Carbon Launcher](https://github.com/mohammad-sheikh-shahinur-rahman/Carbon-liquid-glass-smart-launcher)** · `Kotlin` | Liquid-glass smart Android launcher crafted with modern Material aesthetics |
 | 🎬 **[Recova Studio](https://github.com/mohammad-sheikh-shahinur-rahman/Recova-Studio)** · `TypeScript` | Offline-first screen recorder & AI video editor with smooth cursor effects — plus its own [wiki & ports](https://github.com/mohammad-sheikh-shahinur-rahman/RECOVA-STUDIO-WIKI) |
 | ⌨️ **[BanglaType](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType)** · [Android](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaType-Android) · `C#`/`Kotlin` | Powerful, lightweight, professional-grade **Bangla typing software** — desktop to Android |
 | 🌐 **[BanglaHost](https://github.com/mohammad-sheikh-shahinur-rahman/BanglaHost)** · `C#` | Modern Windows local development environment for PHP & Laravel — one-click local server |
