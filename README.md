@@ -19,7 +19,7 @@
   <a href="#-more-projects">Projects</a> ·
   <a href="#-the-bookshelf--36-published">Bookshelf</a> ·
   <a href="#%EF%B8%8F-cybersecurity--research-spotlight">Security</a> ·
-  <a href="#-github-stats--trophies">Stats</a> ·
+  <a href="#-github-stats">Stats</a> ·
   <a href="#-collaborate--connect">Connect</a>
 </p>
 
@@ -245,11 +245,9 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Sheikh-Shahinur-Rahman&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-  <br/><br/>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Sheikh-Shahinur-Rahman&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Mohammad-Sheikh-Shahinur-Rahman&hide_border=true&background=0D111700&ring=2F7BF5&fire=F7C744" alt="GitHub streak"/>
   <br>
