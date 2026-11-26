@@ -94,6 +94,7 @@
 [![Site](https://img.shields.io/badge/%F0%9F%8C%90-Live_Website-2f7bf5?style=flat-square)](https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/)
 [![Docs](https://img.shields.io/badge/%F0%9F%93%96-Documentation-6fa4ff?style=flat-square)](https://mohammad-sheikh-shahinur-rahman.github.io/Pixora-Studio-Professional-Photo-Editor/docs/)
 [![Download](https://img.shields.io/badge/%E2%AC%87-Download_Windows-22c55e?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/total?style=flat-square&color=2f7bf5&label=Downloads)](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/releases)
 [![Repo](https://img.shields.io/badge/%E2%AD%90-Star_on_GitHub-f7c744?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Pixora-Studio-Professional-Photo-Editor/stargazers)
 
 </div>
@@ -125,6 +126,7 @@
 <sub>Built with <b>Kotlin &amp; Jetpack Compose (Material 3)</b> — 12×12 language tracks, 243k+ FTS4 dictionary &amp; on-device Qwen AI Voice Tutor.</sub><br/><br/>
 
 [![Download APK](https://img.shields.io/badge/%E2%AC%87-Download_APK_v2.0.0-3DDC84?style=flat-square&logo=android&logoColor=black)](https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/total?style=flat-square&color=6750A4&label=APK%20Downloads)](https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/releases)
 [![Repo](https://img.shields.io/badge/%E2%AD%90-Star_on_GitHub-f7c744?style=flat-square)](https://github.com/mohammad-sheikh-shahinur-rahman/Elyora-Learn-Every-Language/stargazers)
 
 </div>
@@ -214,13 +216,31 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
 
-## 📊 GitHub Stats
+## 🛡️ Cybersecurity & Research Spotlight
 
 <div align="center">
+
+| Focus Area | Highlights & Publications |
+|---|---|
+| 🔍 **Bug Bounty & API Security** | Author of **[Bug Bounty: Beginner to Master](https://www.rokomari.com/book/427544/bug-bounty-beginner-to-master)** & **[API হান্টিং: জিরো থেকে হিরো](https://www.rokomari.com/book/475739/এপিআই-হান্টিং-জিরো-থেকে-হিরো)** |
+| 🔬 **Digital Forensics & Cybercrime** | Author of **[ডিজিটাল ফরেনসিক ও সাইবার অপরাধ](https://www.rokomari.com/book/566857/ডিজিটাল-ফরেনসিক-ও-সাইবার-অপরাধ)** — evidence-driven investigation & defense |
+| 🎓 **Academic & Research Profiles** | [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5025--6138-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5025-6138) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00D084?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Sheikh-Shahinur-Rahman) |
+
+</div>
+
+![](https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20)
+
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Sheikh-Shahinur-Rahman&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <br/><br/>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Sheikh-Shahinur-Rahman&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Mohammad-Sheikh-Shahinur-Rahman&hide_border=true&background=0D111700&ring=2F7BF5&fire=F7C744" alt="GitHub streak"/>
   <br>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sheikh-Shahinur-Rahman&layout=compact&hide_border=true&bg_color=0D111700&langs_count=8" alt="Top languages"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Sheikh-Shahinur-Rahman&theme=tokyo-night&hide_border=true&bg_color=0D111700" width="96%" alt="Contribution Activity Graph"/>
 </div>
 
 ### 🏔️ 3D Contribution Landscape
@@ -239,7 +259,18 @@
 
 ---
 
+## 🤝 Collaborate & Connect
+
 <div align="center">
+
+Open to **open-source collaborations**, **systems & Android architecture**, **security research**, and **technical consulting** at **IT Amadersomaj Inc.**
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Website-0a0e14?style=for-the-badge)](https://shahinurrahman.com/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)
+[![Medium](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahinalam3546)
+[![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shahinalam3546)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Mohammad-Sheikh-Shahinur-Rahman&label=Profile+Views&color=2f7bf5&style=for-the-badge" alt="Profile views"/>
 
