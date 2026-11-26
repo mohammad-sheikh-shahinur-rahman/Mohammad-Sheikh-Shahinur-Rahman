@@ -4,6 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&pause=1400&color=6FA4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%E2%9A%A1+Pixora+Studio+%E2%80%94+a+photo+editor+in+pure+Rust;%F0%9F%93%9A+36%2B+published+books+%E2%80%94+poetry%C2%B7code%C2%B7security;%F0%9F%94%92+cybersecurity+%C3%97+digital+forensics;%F0%9F%8C%8D+free+%C2%B7+open+source+%C2%B7+offline" alt="typing"/>
 
+<h1>Mohammad Sheikh Shahinur Rahman</h1>
+
+<p>
+  <b>Software Engineer · CTO at <a href="https://amadersomaj.com">IT Amadersomaj Inc.</a> · Rust &amp; Kotlin/Android Developer · Cybersecurity Researcher · Author of 36+ Books</b><br/>
+  <sub>Dhaka, Bangladesh — Building open-source, offline-first software including <b>Pixora Studio</b> (Rust), <b>Elyora</b> (Kotlin &amp; Jetpack Compose), and <b>FrameCut Studio</b> (Rust).</sub>
+</p>
+
 </div>
 
 <div align="center">
