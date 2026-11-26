@@ -11,6 +11,18 @@
   <sub>Dhaka, Bangladesh — Building open-source, offline-first software including <b>Pixora Studio</b> (Rust), <b>Elyora</b> (Kotlin &amp; Jetpack Compose), and <b>FrameCut Studio</b> (Rust).</sub>
 </p>
 
+<p>
+  <a href="#-about-me">About</a> ·
+  <a href="#-tech-stack">Tech Stack</a> ·
+  <a href="#-pixora-studio--flagship">Pixora Studio</a> ·
+  <a href="#-elyora--learn-every-language--flagship-android">Elyora</a> ·
+  <a href="#-more-projects">Projects</a> ·
+  <a href="#-the-bookshelf--36-published">Bookshelf</a> ·
+  <a href="#%EF%B8%8F-cybersecurity--research-spotlight">Security</a> ·
+  <a href="#-github-stats--trophies">Stats</a> ·
+  <a href="#-collaborate--connect">Connect</a>
+</p>
+
 </div>
 
 <div align="center">
@@ -266,9 +278,11 @@
 Open to **open-source collaborations**, **systems & Android architecture**, **security research**, and **technical consulting** at **IT Amadersomaj Inc.**
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Website-0a0e14?style=for-the-badge)](https://shahinurrahman.com/)
+[![IT Amadersomaj](https://img.shields.io/badge/%F0%9F%8F%A2-IT_Amadersomaj_Inc.-6750A4?style=for-the-badge)](https://amadersomaj.com/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)
 [![Medium](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahinalam3546)
 [![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shahinalam3546)
+[![Rokomari](https://img.shields.io/badge/%F0%9F%93%9A-36%2B_Books-E7262C?style=for-the-badge)](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
 
 <br/>
 
